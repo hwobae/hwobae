@@ -58,7 +58,7 @@ $\text{\color{#b59a58}{𝐫}\color{#af9158}{𝐨}\color{#a9885a}{𝐬}\color{#a3
 
 $\text\large{\color{#c7b360}{৻  𝐥}\color{#b59b5a}{𝐢}\color{#9c805f}{𝐧}\color{#806268}{𝐤}\color{#642e86}{𝐬  ৲}}$
 
-$\text{\color{#c7b360}{灬} \color{#c1ab5c}{ⅰ}\color{#bba259}{.} \color{#b59a58}{𝐬}\color{#af9158}{𝐭}\color{#a9885a}{𝐫}\color{#a37f5c}{𝐚}\color{#9d765f}{𝐰}\color{#976d62}{𝐩}, \color{#916465}{ⅱ}\color{#8b6b6b}{.} \color{#85666e}{𝐚}\color{#7f6171}{𝐭}\color{#795b73}{𝐚}, \color{#735675}{ⅲ}\color{#6d516b}{.} \color{#6a4e6c}{𝐩}\color{#674b6d}{𝐫}\color{#64486e}{𝐨}\color{#61456f}{𝐧}\color{#5e4270}{𝐨}\color{#5b3f71}{𝐮}\color{#583c72}{𝐧}\color{#553973}{𝐬}\color{#523674}{.}\color{#4f3375}{𝐜}\color{#4c3076}{𝐜}, \color{#492d77}{ⅳ}\color{#462a78}{.} \color{#432779}{𝐠}\color{#402778}{𝐮}\color{#3d2677}{𝐧}\color{#392675}{𝐬}\color{#362674}{.}\color{#332673}{𝐥}\color{#302672}{𝐨}\color{#2d2671}{𝐥} \color{#642e86}{灬}}$
+$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b5a05c}{𝐭}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐰}\color{#775575}{𝐩} \color{#775575}{,} \color{#715078}{ⅱ.} \color{#6c457f}{𝐚}\color{#684081}{𝐭}\color{#642e86}{𝐚} \color{#642e86}{,} \color{#642e86}{ⅲ.} \color{#642e86}{𝐩}\color{#642e86}{𝐫}\color{#642e86}{𝐨}\color{#642e86}{𝐧}\color{#642e86}{𝐨}\color{#642e86}{𝐮}\color{#642e86}{𝐧}\color{#642e86}{𝐬}\color{#642e86}{.}\color{#642e86}{𝐜}\color{#642e86}{𝐜} \color{#642e86}{灬}}$
 
 <a href="https://hwobae.straw.page">
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B1%5D.png" alt="strawpage_link" height=“50” width="50">
@@ -67,7 +67,6 @@ $\text{\color{#c7b360}{灬} \color{#c1ab5c}{ⅰ}\color{#bba259}{.} \color{#b59a5
 <a href="https://pronouns.cc/@hwobae">
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="prns cc" height=“50” width="50">
   <a href="https://guns.lol/sejopi">
-  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B4%5D.png" alt="guns lol" height=“50” width="50">
 </a>
 
 <details>
