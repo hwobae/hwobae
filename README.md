@@ -72,12 +72,16 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 <details>
   <summary> $\text{\color{#c7b360}{𝐭}\color{#c1ab5c}{𝐲} \color{#bba259}{𝐩}\color{#b59a58}{𝐨}\color{#af9158}{𝐧}\color{#a9885a}{𝐲} \color{#a37f5c}{𝐭}\color{#9d765f}{𝐨}\color{#976d62}{𝐰}\color{#916465}{𝐧} \color{#8b6b6b}{𝐭}\color{#81606f}{𝐢}\color{#775575}{𝐭}\color{#6d4a7d}{𝐥}\color{#642e86}{𝐞} \color{#642e86}{𝐚}\color{#642e86}{𝐜}\color{#642e86}{𝐜}\color{#642e86}{𝐬}:}$ </summary>
   <br>
- 
+
   <a href="https://github.com/pt-hall-of-media">𝐩𝐭'𝐬 𝐜𝐨𝐩𝐩𝐞𝐫 𝐰𝐢𝐬𝐡𝐥𝐢𝐧𝐠, 𝐡𝐰𝐨𝐚𝐫𝐚𝐧𝐠 𝐚𝐧𝐝 𝐮𝐡𝐮𝐡𝐡 𝐛𝐲 𝐱𝐱𝐚𝐧𝐭𝐞𝐫𝐢𝐚</a><br>
 
   <a href="https://github.com/pt-heavyfictkin">𝐧𝐮𝐥𝐥 [𝐫𝐞𝐠𝐫𝐞𝐭𝐞𝐯𝐚𝐭𝐨𝐫] 𝐡𝐞𝐚𝐯𝐲𝐟𝐢𝐜𝐭𝐤𝐢𝐧</a>
 
   <a href="https://github.com/kaotown">𝐜𝐥𝐨𝐮𝐝 𝐡𝐚𝐞𝐭𝐚𝐞 𝐜𝐨𝐨𝐤𝐢𝐞'𝐬 𝐛𝐢𝐠𝐠𝐞𝐬𝐭 𝐟𝐚𝐧</a><br>
+
+  <img width="661" height="66" alt="Screenshot (841)" src="https://github.com/user-attachments/assets/704785d5-6ac0-4547-bd16-0bae6faf628e" />
+
+  <a href="https://github.com/THE-TEMPIST">𝐓𝐡𝐞 𝐓𝐞𝐦𝐩𝐞𝐬𝐭’𝐬 𝐇𝐰𝐨𝐚𝐫𝐚𝐧𝐠</a><br>
   
 </details>
 
