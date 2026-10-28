@@ -84,6 +84,10 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
   <img width="661" height="66" alt="Screenshot (841)" src="https://github.com/user-attachments/assets/704785d5-6ac0-4547-bd16-0bae6faf628e" />
 
   <a href="https://github.com/THE-TEMPIST">𝐓𝐡𝐞 𝐓𝐞𝐦𝐩𝐞𝐬𝐭’𝐬 𝐇𝐰𝐨𝐚𝐫𝐚𝐧𝐠</a><br>
+
+  <img width="739" height="74" alt="Screenshot (843)" src="https://github.com/user-attachments/assets/5260655d-80b1-48c0-9142-cc5e2c6e796b" />
+
+  <a href="https://github.com/piddlesjet">𝐩𝐨𝐧𝐲𝐭𝐨𝐰𝐧'𝐬 𝐡𝐰𝐨𝐚𝐫𝐚𝐧𝐠 & 𝐜𝐨𝐩𝐩𝐞𝐫 𝐰𝐢𝐬𝐡𝐥𝐢𝐧𝐠</a>
   
 </details>
 
