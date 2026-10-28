@@ -79,6 +79,8 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 
   <a href="https://github.com/kaotown">𝐜𝐥𝐨𝐮𝐝 𝐡𝐚𝐞𝐭𝐚𝐞 𝐜𝐨𝐨𝐤𝐢𝐞'𝐬 𝐛𝐢𝐠𝐠𝐞𝐬𝐭 𝐟𝐚𝐧</a><br>
 
+  <a href="https://github.com/Ponytowns-rewards">𝐩𝐨𝐧𝐲 𝐭𝐨𝐰𝐧'𝐬 𝐜𝐡𝐨𝐬𝐨 𝐤𝐚𝐦𝐨</a><br>
+
   <img width="661" height="66" alt="Screenshot (841)" src="https://github.com/user-attachments/assets/704785d5-6ac0-4547-bd16-0bae6faf628e" />
 
   <a href="https://github.com/THE-TEMPIST">𝐓𝐡𝐞 𝐓𝐞𝐦𝐩𝐞𝐬𝐭’𝐬 𝐇𝐰𝐨𝐚𝐫𝐚𝐧𝐠</a><br>
