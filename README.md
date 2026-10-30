@@ -119,6 +119,8 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 <details>
   <summary> $\text{\color{#c7b360}{𝐛}\color{#bda55c}{𝟒} \color{#b5a05c}{𝐲}\color{#a98f5c}{𝐨}\color{#9e805e}{𝐮} \color{#8b6b6b}{𝐢}\color{#84636c}{𝐧}\color{#7d5b71}{𝐭}\color{#775575}{𝐞}\color{#715078}{𝐫}\color{#6c457f}{𝐚}\color{#684081}{𝐜}\color{#642e86}{𝐭} \color{#642e86}{/} \color{#642e86}{𝐛}\color{#642e86}{𝐦}\color{#642e86}{𝐟}}$ </summary>
   <br>
+
+- $\text{\color{#c7b360}{𝐈'𝐦} \color{#c3ae60}{𝐧𝐨𝐭} \color{#bfa95f}{𝐨𝐟𝐟𝐭𝐚𝐛} \color{#bba35d}{,} \color{#b69d5c}{𝐥𝐢𝐤𝐞𝐥𝐲} \color{#b1985b}{𝐬𝐩𝐞𝐜𝐭𝐚𝐭𝐢𝐧𝐠} \color{#ac925b}{𝐨𝐫} \color{#a78c5b}{𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠} \color{#a2865c}{𝐬𝐨𝐦𝐞} \color{#9d805e}{𝐠𝐢𝐭𝐡𝐮𝐛} \color{#987a61}{𝐩𝐫𝐨𝐟𝐢𝐥𝐞𝐬} \color{#937465}{𝐈'𝐯𝐞} \color{#8e6e68}{𝐟𝐨𝐮𝐧𝐝,} \color{#89696b}{𝐬𝐨} \color{#84646e}{𝐟𝐞𝐞𝐥} \color{#805f71}{𝐟𝐫𝐞𝐞} \color{#7b5a74}{𝐭𝐨} \color{#765577}{𝐢𝐧𝐭} \color{#715079}{𝐨𝐫} \color{#6d4b7c}{𝐰𝐡𝐢𝐬𝐩𝐞𝐫} \color{#68467f}{𝐦𝐞.}}$
  
 - $\text{\color{#c7b360}{𝐢} \color{#bda55c}{𝐡𝐚𝐯𝐞} \color{#a98f5c}{𝐢𝐧𝐭𝐞𝐫𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥} \color{#8b6b6b}{𝐢𝐬𝐬𝐮𝐞𝐬}}$
 
