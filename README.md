@@ -65,7 +65,7 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
   <a href="https://hwobae.atabook.org/">
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B2%5D.png" alt="atabook_link" width=50 height=“50” " >
 <a href="https://pronouns.cc/@hwobae">
-  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="prns cc" height=“50” width="50">
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="this website hasnt changed yet" height=“50” width="50">
   <a href="https://guns.lol/sejopi">
 </a>
 
@@ -89,7 +89,7 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 
   <a href="https://github.com/piddlesjet">𝐩𝐨𝐧𝐲𝐭𝐨𝐰𝐧'𝐬 𝐡𝐰𝐨𝐚𝐫𝐚𝐧𝐠 & 𝐜𝐨𝐩𝐩𝐞𝐫 𝐰𝐢𝐬𝐡𝐥𝐢𝐧𝐠</a>
 
-  <img width="545" height="78" alt="Green Envy 1x1x1x1" src="https://github.com/user-attachments/assets/5260655d-80b1-48c0-9142-cc5e2c6e796b" />
+  <img width="545" height="78" alt="Green Envy 1x1x1x1" src="https://file.garden/ZroW4OcqSGtS0a5j/Screenshot_2026-10-31-11-39-30-31.jpg" />
 
   <a href="https://github.com/pt-of-forsaken">𝐩𝐨𝐧𝐲 𝐭𝐨𝐰𝐧'𝐬 𝐆𝐫𝐞𝐞𝐧 𝐄𝐧𝐯𝐲 𝟏𝐱𝟏𝐱𝟏𝐱𝟏</a>
   
