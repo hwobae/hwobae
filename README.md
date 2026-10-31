@@ -88,6 +88,10 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
   <img width="739" height="74" alt="Screenshot (843)" src="https://github.com/user-attachments/assets/5260655d-80b1-48c0-9142-cc5e2c6e796b" />
 
   <a href="https://github.com/piddlesjet">𝐩𝐨𝐧𝐲𝐭𝐨𝐰𝐧'𝐬 𝐡𝐰𝐨𝐚𝐫𝐚𝐧𝐠 & 𝐜𝐨𝐩𝐩𝐞𝐫 𝐰𝐢𝐬𝐡𝐥𝐢𝐧𝐠</a>
+
+  <img width="545" height="78" alt="Green Envy 1x1x1x1" src="https://github.com/user-attachments/assets/5260655d-80b1-48c0-9142-cc5e2c6e796b" />
+
+  <a href="https://github.com/pt-of-forsaken">𝐩𝐨𝐧𝐲 𝐭𝐨𝐰𝐧'𝐬 𝐆𝐫𝐞𝐞𝐧 𝐄𝐧𝐯𝐲 𝟏𝐱𝟏𝐱𝟏𝐱𝟏</a>
   
 </details>
 
