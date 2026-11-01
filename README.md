@@ -65,8 +65,7 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
   <a href="https://hwobae.atabook.org/">
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B2%5D.png" alt="atabook_link" width=50 height=“50” " >
 <a href="https://pronouns.cc/@hwobae">
-  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="this website hasnt changed yet" height=“50” width="50">
-  <a href="https://guns.lol/sejopi">
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="pronouns.cc_link" height=“50” width="50">
 </a>
 
 <details>
