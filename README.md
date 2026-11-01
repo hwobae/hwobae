@@ -110,6 +110,12 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
   <summary> $\text{\color{#c7b360}{𝐦}\color{#bda55c}{𝐲} \color{#b5a05c}{𝐦}\color{#a98f5c}{𝐚}\color{#9e805e}{𝐢}\color{#8b6b6b}{𝐧} \color{#84636c}{𝐢}\color{#7d5b71}{𝐧}\color{#775575}{𝐭}\color{#715078}{𝐞}\color{#6c457f}{𝐫}\color{#684081}{𝐞}\color{#642e86}{𝐬}\color{#642e86}{𝐭}\color{#642e86}{𝐬}}$</summary>
   <br>
 
+- $\text{\color{#c7b360}{𝐭}\color{#bda55c}{𝐞}\color{#b5a05c}{𝐤}\color{#a98f5c}{𝐤}\color{#9e805e}{𝐞}\color{#8b6b6b}{𝐧}}$
+
+- $\text{\color{#c7b360}{𝐡}\color{#bda55c}{𝐨}\color{#b5a05c}{𝐦}\color{#a98f5c}{𝐞}\color{#9e805e}{𝐬}\color{#8b6b6b}{𝐭}\color{#84636c}{𝐮}\color{#7d5b71}{𝐜}\color{#775575}{𝐤}}$
+
+- $\text{\color{#c7b360}{𝐥}\color{#bda55c}{𝐞}\color{#b5a05c}{𝐟}\color{#a98f5c}{𝐭} \color{#9e805e}{𝟒} \color{#8b6b6b}{𝐝}\color{#84636c}{𝐞}\color{#7d5b71}{𝐚}\color{#775575}{𝐝} \color{#715078}{𝟐}}$
+
 - $\text{\color{#c7b360}{𝐫}\color{#bda55c}{𝐞}\color{#b5a05c}{𝐠}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐞}\color{#8b6b6b}{𝐭}\color{#84636c}{𝐞}\color{#7d5b71}{𝐯}\color{#775575}{𝐚}\color{#715078}{𝐭}\color{#6c457f}{𝐨}\color{#684081}{𝐫}}$
 
 - $\text{\color{#c7b360}{𝐩}\color{#bda55c}{𝐫}\color{#b5a05c}{𝐨}\color{#a98f5c}{𝐣}\color{#9e805e}{𝐞}\color{#8b6b6b}{𝐜}\color{#84636c}{𝐭} \color{#7d5b71}{𝐳}\color{#775575}{𝐨}\color{#715078}{𝐦}\color{#6c457f}{𝐛}\color{#684081}{𝐨}\color{#642e86}{𝐢}\color{#642e86}{𝐝}}$
@@ -117,7 +123,6 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 - $\text{\color{#c7b360}{𝐩}\color{#bda55c}{𝐥}\color{#b5a05c}{𝐚}\color{#a98f5c}{𝐧}\color{#9e805e}{𝐭}\color{#8b6b6b}{𝐬} \color{#84636c}{𝐯}\color{#7d5b71}{𝐬} \color{#775575}{𝐳}\color{#715078}{𝐨}\color{#6c457f}{𝐦}\color{#684081}{𝐛}\color{#642e86}{𝐢}\color{#642e86}{𝐞}\color{#642e86}{𝐬}}$
 
 - $\text{\color{#c7b360}{𝐭}\color{#bda55c}{𝐨}\color{#b5a05c}{𝐨}\color{#a98f5c}{𝐧}\color{#9e805e}{𝐬} \color{#8b6b6b}{𝐮}\color{#84636c}{𝐧}\color{#7d5b71}{𝐢}\color{#775575}{𝐯}\color{#715078}{𝐞}\color{#6c457f}{𝐫}\color{#684081}{𝐬}\color{#642e86}{𝐞}}$
-
 <br>
 </table>
  </details>
