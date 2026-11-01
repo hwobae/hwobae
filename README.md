@@ -107,6 +107,18 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
     <tr>
       <td>
 <details>
+  <summary> $\text{\color{#c7b360}{𝐦}\color{#bda55c}{𝐲} \color{#b5a05c}{𝐦}\color{#a98f5c}{𝐚}\color{#9e805e}{𝐢}\color{#8b6b6b}{𝐧} \color{#84636c}{𝐢}\color{#7d5b71}{𝐧}\color{#775575}{𝐭}\color{#715078}{𝐞}\color{#6c457f}{𝐫}\color{#684081}{𝐞}\color{#642e86}{𝐬}\color{#642e86}{𝐭}\color{#642e86}{𝐬}}$</summary>
+  <br>
+
+$\text{\color{#c7b360}{𝐭}\color{#bda55c}{𝐞}\color{#b5a05c}{𝐤}\color{#a98f5c}{𝐤}\color{#9e805e}{𝐞}\color{#8b6b6b}{𝐧}, \color{#84636c}{𝐡}\color{#7d5b71}{𝐨}\color{#775575}{𝐦}\color{#715078}{𝐞}\color{#6c457f}{𝐬}\color{#684081}{𝐭}\color{#642e86}{𝐮}\color{#642e86}{𝐜}\color{#642e86}{𝐤}, \color{#642e86}{𝐥}\color{#642e86}{𝐞}\color{#642e86}{𝐟}\color{#642e86}{𝐭} \color{#642e86}{𝟒} \color{#642e86}{𝐝}\color{#642e86}{𝐞}\color{#642e86}{𝐚}\color{#642e86}{𝐝} \color{#642e86}{𝟐}, \color{#642e86}{𝐫}\color{#642e86}{𝐞}\color{#642e86}{𝐠}\color{#642e86}{𝐫}\color{#642e86}{𝐞}\color{#642e86}{𝐭}\color{#642e86}{𝐞}\color{#642e86}{𝐯}\color{#642e86}{𝐚}\color{#642e86}{𝐭}\color{#642e86}{𝐨}\color{#642e86}{𝐫}, \color{#642e86}{𝐩}\color{#642e86}{𝐫}\color{#642e86}{𝐨}\color{#642e86}{𝐣}\color{#642e86}{𝐞}\color{#642e86}{𝐜}\color{#642e86}{𝐭} \color{#642e86}{𝐳}\color{#642e86}{𝐨}\color{#642e86}{𝐦}\color{#642e86}{𝐛}\color{#642e86}{𝐨}\color{#642e86}{𝐢}\color{#642e86}{𝐝}, \color{#642e86}{𝐩}\color{#642e86}{𝐥}\color{#642e86}{𝐚}\color{#642e86}{𝐧}\color{#642e86}{𝐭}\color{#642e86}{𝐬} \color{#642e86}{𝐯𝐬} \color{#642e86}{𝐳}\color{#642e86}{𝐨}\color{#642e86}{𝐦}\color{#642e86}{𝐛}\color{#642e86}{𝐢}\color{#642e86}{𝐞}\color{#642e86}{𝐬}, \color{#642e86}{𝐭}\color{#642e86}{𝐨}\color{#642e86}{𝐨}\color{#642e86}{𝐧}\color{#642e86}{𝐬} \color{#642e86}{𝐮}\color{#642e86}{𝐧}\color{#642e86}{𝐢}\color{#642e86}{𝐯}\color{#642e86}{𝐞}\color{#642e86}{𝐫}\color{#642e86}{𝐬}\color{#642e86}{𝐞}}$
+<br>
+</table>
+ </details>
+
+<table>
+    <tr>
+      <td>
+<details>
   <summary> $\text{\color{#c7b360}{𝐝}\color{#8b6b6b}{𝐧}\color{#642e86}{𝐢}}$ </summary>
   <br>
  
