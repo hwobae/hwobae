@@ -36,6 +36,8 @@ $\text{\color{#b59a58}{𝐫}\color{#af9158}{𝐨}\color{#a9885a}{𝐬}\color{#a3
  
   <a href="https://github.com/mrfishsandwhich"><font color="#c7b360">𝐝𝐚𝐞</font></a><br>
 
+  <a href="https://github.com/acerbicSerpentine"><font color="#806268">𝐭𝐢𝐧 / 𝐯𝐫𝐢𝐬𝐤𝐚 ! 𝐡𝐞𝐥𝐥𝐨 𝐯𝐫𝐢𝐬 𝐨𝐦𝐠</font></a>
+
   <a href="https://github.com/pur3lies"><font color="#9c805f">𝐬𝐮𝐤𝐮𝐧𝐚 / 𝐣𝐞𝐬𝐭𝐞𝐫 " 𝐌𝐄𝐌𝐄𝐌𝐄𝐌𝐄𝐌𝐄 𝐈𝐌 𝐇𝐈𝐌 " </font></a>
 
   <a href="https://github.com/Ze-Doktor"><font color="#c7b360">𝐈𝐅𝐀 𝐈𝐅𝐀 𝐈𝐅𝐀 𝐈𝐅𝐀 𝐈𝐅𝐀 𝐈𝐅𝐀</font></a><br>
@@ -47,8 +49,6 @@ $\text{\color{#b59a58}{𝐫}\color{#af9158}{𝐨}\color{#a9885a}{𝐬}\color{#a3
   <a href="https://github.com/spikedfist"><font color="#c7b360">𝐜𝐨𝐥𝐥𝐢𝐧 / 𝐚𝐫𝐚𝐝𝐢𝐚 !! 𝐡𝐞𝐬 𝐬𝐨 𝐜𝐨𝐨𝐥</font></a><br>
 
   <a href="https://github.com/pouncedeleon"><font color="#806268">𝐬𝐡𝐚𝐫𝐤 / 𝐧𝐞𝐩𝐞𝐭𝐚 . . . " 𝐢𝐦 𝐭𝐡𝐞 𝐜𝐨𝐨𝐥𝐞𝐬𝐭 𝐤𝐢𝐭𝐭𝐲 𝐞𝐟𝐮𝐫 𝐁) "</font></a><br>
-
-  <a href="https://github.com/acerbicSerpentine"><font color="#806268">𝐭𝐢𝐧 / 𝐯𝐫𝐢𝐬𝐤𝐚 !</font></a>
 
   <a href="https://github.com/scientificmadman"><font color="#642e86">𝐜𝐚𝐤𝐞𝐲𝐚𝐤𝐢 = ♦ 𝐞𝐚𝐫𝐥𝐢𝐞𝐬𝐭 𝐦𝐫𝐞𝐞𝐨𝐰𝐬! 𝐦𝐢𝐭𝐮𝐧𝐚𝐬 𝐛𝐟 𝐛𝐭𝐰 </font></a>
   
