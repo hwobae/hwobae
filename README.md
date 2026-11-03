@@ -153,6 +153,8 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 
 - $\text{\color{#c7b360}{𝐢} \color{#bda55c}{𝐡𝐚𝐯𝐞} \color{#a98f5c}{𝐦𝐨𝐨𝐝} \color{#8b6b6b}{𝐬𝐰𝐢𝐧𝐠𝐬}}$
 
+- $\text{\color{#c7b360}{𝐈}\color{#bda55c}{'}\color{#b5a05c}{𝐦} \color{#a98f5c}{𝐯}\color{#9e805e}{𝐞}\color{#8b6b6b}{𝐫}\color{#84636c}{𝐲} \color{#7d5b71}{𝐜}\color{#775575}{𝐨}\color{#715078}{𝐦}\color{#6c457f}{𝐩}\color{#684081}{𝐞}\color{#642e86}{𝐭}\color{#642e86}{𝐢}\color{#642e86}{𝐭}\color{#642e86}{𝐢}\color{#642e86}{𝐯}\color{#642e86}{𝐞} \color{#c7b360}{𝐬}\color{#bda55c}{𝐨}\color{#b5a05c}{𝐦}\color{#a98f5c}{𝐞}\color{#9e805e}{𝐭}\color{#8b6b6b}{𝐢}\color{#84636c}{𝐦}\color{#7d5b71}{𝐞}\color{#775575}{𝐬}, \color{#c7b360}{𝐢}\color{#bda55c}{𝐟} \color{#b5a05c}{𝐭}\color{#a98f5c}{𝐡}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐭} \color{#84636c}{𝐛}\color{#7d5b71}{𝐨}\color{#775575}{𝐭}\color{#715078}{𝐡}\color{#6c457f}{𝐞}\color{#684081}{𝐫}\color{#642e86}{𝐬} \color{#c7b360}{𝐲}\color{#bda55c}{𝐨}\color{#b5a05c}{𝐮}.}$
+
 - $\text{\color{#c7b360}{𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥𝐥𝐲} \color{#bda55c}{𝐞𝐱𝐩𝐫𝐞𝐬𝐬𝐢𝐯𝐞} \color{#a98f5c}{𝐢} \color{#9e805e}{𝐥𝐨𝐯𝐞} \color{#8b6b6b}{𝐭𝐨} \color{#775575}{𝐮𝐬𝐞} \color{#642e86}{𝐞𝐦𝐨𝐭𝐢𝐜𝐨𝐧𝐬}}$
 
 - $\text{\color{#c7b360}{𝐰𝐨𝐧𝐭} \color{#bda55c}{𝐜𝐡𝐚𝐭} \color{#a98f5c}{𝐭𝐨} \color{#9e805e}{𝐮} \color{#8b6b6b}{𝐟𝐢𝐫𝐬𝐭} \color{#775575}{𝐮𝐧𝐥𝐞𝐬𝐬} \color{#642e86}{𝐢𝐦} \color{#642e86}{𝐢𝐧𝐭𝐫𝐢𝐠𝐮𝐞𝐝} \color{#642e86}{𝐨𝐟} \color{#642e86}{𝐮}}$
@@ -169,3 +171,10 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
 </table>
 
 </details>
+
+
+<!--
+
+im in need of friends who consistently talks and comes up to me to be honest, if you do care. ty. it means alot.
+
+-->
