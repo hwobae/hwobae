@@ -9,43 +9,11 @@
 <details>
 <summary>
 
-$\text{\color{#c7b360}{灬} \color{#bda55c}{𝑖}\color{#a98f5c}{𝑛}\color{#8b6b6b}{𝑓}\color{#715078}{𝑜}\color{#684081}{𝑠} \color{#642e86}{𝑜}\color{#c7b360}{𝑓} \color{#bda55c}{𝑈}\color{#8b6b6b}{𝑠} \color{#642e86}{灬}}$
+$\text{\color{#c7b360}{灬} \color{#bda55c}{𝑖𝑛𝑓𝑜𝑠} \color{#8b6b6b}{𝑜𝑓} \color{#684081}{𝑈𝑠} \color{#642e86}{灬}}$
 
 </summary>
 
-$\text{\color{#c7b360}{𝑊}\color{#bda55c}{𝑒}\color{#a98f5c}{'}\color{#8b6b6b}{𝑟}\color{#715078}{𝑒} \color{#684081}{17} \color{#642e86}{𝑦}\color{#775575}{𝑒}\color{#8b6b6b}{𝑎}\color{#a98f5c}{𝑟}\color{#b5a05c}{𝑠} \color{#c7b360}{𝑜}\color{#bda55c}{𝑙}\color{#a98f5c}{𝑑}}$
-
-\quad
-
-$\text{\color{#c7b360}{𝑊}\color{#bda55c}{𝑒} \color{#a98f5c}{𝑔}\color{#9e805e}{𝑜} \color{#8b6b6b}{𝑏}\color{#775575}{𝑦} \color{#715078}{𝐻}\color{#6c457f}{𝑤}\color{#684081}{𝑜}\color{#642e86}{𝑎}\color{#775575}{𝑟}\color{#8b6b6b}{𝑎}\color{#a98f5c}{𝑛}\color{#bda55c}{𝑔}}$
-
-\quad
-
-$\text{\color{#c7b360}{,} \color{#bda55c}{𝑆}\color{#a98f5c}{𝑖}\color{#8b6b6b}{𝑟}\color{#775575}{𝑔}\color{#715078}{𝑖}\color{#684081}{𝑙} \color{#642e86}{,} \color{#bda55c}{𝐴}\color{#a98f5c}{𝑦}\color{#8b6b6b}{𝑑}\color{#775575}{𝑒}\color{#684081}{𝑛} \color{#642e86}{𝑜}\color{#775575}{𝑟} \color{#c7b360}{𝑁}\color{#a98f5c}{𝑢}\color{#775575}{𝑙}\color{#642e86}{𝑙}}$
-
-\quad
-
-$\text{\color{#c7b360}{𝑊}\color{#bda55c}{𝑒} \color{#a98f5c}{𝑢}\color{#8b6b6b}{𝑠}\color{#775575}{𝑒} \color{#715078}{𝑝}\color{#684081}{𝑟}\color{#642e86}{𝑜}\color{#775575}{𝑛}\color{#8b6b6b}{𝑜}\color{#a98f5c}{𝑢}\color{#bda55c}{𝑛}\color{#c7b360}{𝑠}}$
-
-\quad
-
-$\text{\color{#c7b360}{𝑜}\color{#bda55c}{𝑓} \color{#a98f5c}{𝑇}\color{#8b6b6b}{𝒽}\color{#775575}{𝑒}\color{#715078}{𝑦}/\color{#684081}{𝑇}\color{#642e86}{𝒽}\color{#775575}{𝑒}\color{#8b6b6b}{𝑚}}$
-
-\quad
-
-$\text{\color{#c7b360}{𝑎}\color{#bda55c}{𝑛}\color{#a98f5c}{𝑑} \color{#8b6b6b}{𝑊}\color{#775575}{𝑒} \color{#715078}{𝑠}\color{#684081}{𝑖}\color{#642e86}{𝑛}\color{#775575}{𝑐}\color{#8b6b6b}{𝑒} \color{#a98f5c}{𝑊}\color{#bda55c}{𝑒}}$
-
-\quad
-
-$\text{\color{#c7b360}{'}\color{#bda55c}{𝑟}\color{#a98f5c}{𝑒} \color{#8b6b6b}{𝑚}\color{#775575}{𝑜}\color{#715078}{𝑟}\color{#684081}{𝑒} \color{#642e86}{𝑐}\color{#775575}{𝑜}\color{#8b6b6b}{𝑚}\color{#a98f5c}{𝑓}\color{#bda55c}{𝑜}\color{#c7b360}{𝑟}\color{#bda55c}{𝑡}\color{#a98f5c}{𝑎}\color{#8b6b6b}{𝑏}\color{#775575}{𝑙}\color{#715078}{𝑒} \color{#684081}{𝑤}\color{#642e86}{𝑖}\color{#775575}{𝑡}\color{#8b6b6b}{𝒽} \color{#a98f5c}{𝑖}\color{#bda55c}{𝑡}}$
-
-\quad\quad
-
-$\text{\color{#c7b360}{𝐻}\color{#bda55c}{𝑤}\color{#a98f5c}{𝑜}\color{#8b6b6b}{𝑎}\color{#775575}{𝑟}\color{#715078}{𝑎}\color{#684081}{𝑛}\color{#642e86}{𝑔}\color{#775575}{'}\color{#8b6b6b}{𝑠} \color{#a98f5c}{𝐻}\color{#bda55c}{𝑢}\color{#c7b360}{𝑠}\color{#bda55c}{𝑏}\color{#a98f5c}{𝑎}\color{#8b6b6b}{𝑛}\color{#775575}{𝑑}/\color{#715078}{𝑊}\color{#684081}{𝑖}\color{#642e86}{𝑓}\color{#775575}{𝑒}}$
-
-\quad
-
-$\text{\color{#c7b360}{+} \color{#bda55c}{𝐾}\color{#a98f5c}{𝑖}\color{#8b6b6b}{𝑛} \color{#775575}{𝑑}\color{#715078}{'}\color{#684081}{𝑎}\color{#642e86}{𝑤}\color{#775575}{𝑤} \color{#c7b360}{灬}}$
+$\text{\color{#c7b360}{𝑊𝑒}'\color{#bda55c}{𝑟𝑒} \color{#a98f5c}{17} \color{#8b6b6b}{𝑦𝑒𝑎𝑟𝑠} \color{#775575}{𝑜𝑙𝑑} \quad \color{#c7b360}{𝑊𝑒} \color{#bda55c}{𝑔𝑜} \color{#a98f5c}{𝑏𝑦} \color{#8b6b6b}{𝐻𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \color{#775575}{,} \color{#715078}{𝑆𝑖𝑟𝑔𝑖𝑙} \color{#684081}{,} \color{#642e86}{𝐴𝑦𝑑𝑒𝑛} \color{#c7b360}{𝑜𝑟} \color{#bda55c}{𝑁𝑢𝑙𝑙} \quad \color{#a98f5c}{𝑊𝑒} \color{#9e805e}{𝑢𝑠𝑒} \color{#8b6b6b}{𝑝𝑟𝑜𝑛𝑜𝑢𝑛𝑠} \color{#775575}{𝑜𝑓} \color{#715078}{𝑇𝒉𝑒𝑦/𝑇𝒉𝑒𝑚} \color{#684081}{+} \color{#642e86}{𝑊𝑒} \color{#c7b360}{,} \color{#bda55c}{𝑠𝑖𝑛𝑐𝑒} \color{#a98f5c}{𝑊𝑒}'\color{#9e805e}{𝑟𝑒} \color{#8b6b6b}{𝑚𝑜𝑟𝑒} \color{#775575}{𝑐𝑜𝑚𝑓𝑜𝑟𝑡𝑎𝑏𝑙𝑒} \color{#715078}{𝑤𝑖𝑡𝒉} \color{#684081}{𝑖𝑡} \quad \quad \color{#c7b360}{𝐻𝑤𝑜𝑎𝑟𝑎𝑛𝑔}'\color{#bda55c}{𝑠} \color{#a98f5c}{𝐻𝑢𝑠𝑏𝑎𝑛𝑑/𝑊𝑖𝑓𝑒} \color{#8b6b6b}{+} \color{#775575}{𝐾𝑖𝑛} \color{#684081}{𝑑}'\color{#642e86}{𝑎𝑤𝑤}}$
 
 </details>
 
