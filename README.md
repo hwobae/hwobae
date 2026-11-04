@@ -12,6 +12,8 @@
 
 $\text\large{\color{#c7b360}{৻  𝐥}\color{#b59b5a}{𝐢}\color{#9c805f}{𝐧}\color{#806268}{𝐤}\color{#642e86}{𝐬  ৲}}$
 
+$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b5a05c}{𝐭}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐰}\color{#775575}{𝐩} \color{#775575}{,} \color{#715078}{ⅱ.} \color{#bda55c}{𝐚}\color{#a98f5c}{𝐭}\color{#8b6b6b}{𝐚} \color{#775575}{,} \color{#715078}{ⅲ.} \color{#6c457f}{𝐩}\color{#684081}{𝐫}\color{#642e86}{𝐨}\color{#642e86}{𝐧}\color{#642e86}{𝐨}\color{#642e86}{𝐮}\color{#642e86}{𝐧}\color{#642e86}{𝐬}\color{#642e86}{.}\color{#642e86}{𝐜}\color{#642e86}{𝐜} \color{#642e86}{灬}}$
+
 $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b5a05c}{𝐭}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐰}\color{#775575}{𝐩} \color{#775575}{,} \color{#715078}{ⅱ.} \color{#6c457f}{𝐚}\color{#684081}{𝐭}\color{#642e86}{𝐚} \color{#642e86}{,} \color{#642e86}{ⅲ.} \color{#642e86}{𝐩}\color{#642e86}{𝐫}\color{#642e86}{𝐨}\color{#642e86}{𝐧}\color{#642e86}{𝐨}\color{#642e86}{𝐮}\color{#642e86}{𝐧}\color{#642e86}{𝐬}\color{#642e86}{.}\color{#642e86}{𝐜}\color{#642e86}{𝐜} \color{#642e86}{灬}}$
 
 <a href="https://hwobae.straw.page">
