@@ -37,6 +37,12 @@ $\text{\color{#bda55c}{+} \quad \color{#8b6b6b}{𝑚𝑦} \quad \color{#775575}{
 
 </td>
 
+<td align="center" valign="middle">
+  <a href="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png">
+    <img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="180">
+  </a>
+</td>
+
 <td align="right" valign="middle">
 
 $\text{\color{#642e86}{⩩} \color{#775575}{𝑛𝑢𝑙𝑙} \color{#8b6b6b}{+} \color{#a98f5c}{𝑐𝑜𝑝𝑝𝑒𝑟} \color{#b5a05c}{𝑤𝑖𝑠ℎ𝑙𝑖𝑛𝑔} \color{#c7b360}{𝑓𝑖𝑐𝑡𝑘𝑖𝑛𝑠} \qquad\qquad \color{#c7b360}{⌘}}$
@@ -49,12 +55,6 @@ $\text{\color{#642e86}{▱} \color{#775575}{ℎ𝑒𝑎𝑣𝑦} \color{#8b6b6b}
 
 $\text{\color{#642e86}{◈} \color{#775575}{𝑚𝑎𝑖𝑛} \color{#8b6b6b}{𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑠} \color{#a98f5c}{:} \quad \color{#b5a05c}{𝑡𝑒𝑘𝑘𝑒𝑛} \color{#bda55c}{,} \color{#b5a05c}{𝑝𝑧} \color{#a98f5c}{,} \color{#9e805e}{𝑝𝑣𝑧} \color{#8b6b6b}{,} \color{#775575}{𝑡𝑜𝑜𝑛𝑠} \color{#715078}{𝑢𝑛𝑖𝑣} \color{#6c457f}{,} \color{#684081}{𝑙4𝑑2} \color{#642e86}{,} \color{#642e86}{𝑟𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \qquad \color{#642e86}{⎔}}$
 
-</td>
-
-<td align="center" valign="middle">
-  <a href="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png">
-    <img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="180">
-  </a>
 </td>
 
 </tr>
