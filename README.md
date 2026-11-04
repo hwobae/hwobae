@@ -150,24 +150,18 @@ $\text{\color{#b59a58}{𝐫}\color{#af9158}{𝐨}\color{#a9885a}{𝐬}\color{#a3
   <br>
 
 - $\text{\color{#c7b360}{𝐈'𝐦} \color{#c3ae60}{𝐧𝐨𝐭} \color{#bfa95f}{𝐨𝐟𝐟𝐭𝐚𝐛} \color{#bba35d}{,} \color{#b69d5c}{𝐥𝐢𝐤𝐞𝐥𝐲} \color{#b1985b}{𝐬𝐩𝐞𝐜𝐭𝐚𝐭𝐢𝐧𝐠} \color{#ac925b}{𝐨𝐫} \color{#a78c5b}{𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠} \color{#a2865c}{𝐬𝐨𝐦𝐞} \color{#9d805e}{𝐠𝐢𝐭𝐡𝐮𝐛} \color{#987a61}{𝐩𝐫𝐨𝐟𝐢𝐥𝐞𝐬} \color{#937465}{𝐈'𝐯𝐞} \color{#8e6e68}{𝐟𝐨𝐮𝐧𝐝,} \color{#89696b}{𝐬𝐨} \color{#84646e}{𝐟𝐞𝐞𝐥} \color{#805f71}{𝐟𝐫𝐞𝐞} \color{#7b5a74}{𝐭𝐨} \color{#765577}{𝐢𝐧𝐭} \color{#715079}{𝐨𝐫} \color{#6d4b7c}{𝐰𝐡𝐢𝐬𝐩𝐞𝐫} \color{#68467f}{𝐦𝐞.}}$
+
+- $\text{\color{#c7b360}{𝐩𝐥𝐞𝐚𝐬𝐞} \color{#c3ae60}{𝐛𝐞} \color{#bfa95f}{𝐩𝐚𝐭𝐢𝐞𝐧𝐭} \color{#bba35d}{𝐰𝐢𝐭𝐡} \color{#b69d5c}{𝐦𝐞} \color{#b1985b}{𝐬𝐢𝐧𝐜𝐞} \color{#ac925b}{𝐢} \color{#a78c5b}{𝐜𝐚𝐧} \color{#a2865c}{𝐛𝐞} \color{#9d805e}{𝐬𝐥𝐨𝐰} \color{#987a61}{𝐲𝐞𝐭} \color{#937465}{𝐢𝐦𝐩𝐮𝐥𝐬𝐢𝐯𝐞} \color{#8e6e68}{𝐥𝐨𝐥}}$
  
-- $\text{\color{#c7b360}{𝐢} \color{#bda55c}{𝐡𝐚𝐯𝐞} \color{#a98f5c}{𝐢𝐧𝐭𝐞𝐫𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥} \color{#8b6b6b}{𝐢𝐬𝐬𝐮𝐞𝐬}}$
+- $\text{\color{#c7b360}{𝐝𝐨𝐮𝐛𝐥𝐞𝐬} \color{#c3ae60}{𝐟𝐫𝐞𝐞𝐥𝐲} \color{#bfa95f}{𝐢𝐧𝐭} \color{#bba35d}{𝐣𝐮𝐬𝐭} \color{#b69d5c}{𝐝𝐨𝐧𝐭} \color{#b1985b}{𝐛𝐞} \color{#ac925b}{𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞}}$
 
-- $\text{\color{#c7b360}{𝐢} \color{#bda55c}{𝐡𝐚𝐯𝐞} \color{#a98f5c}{𝐦𝐨𝐨𝐝} \color{#8b6b6b}{𝐬𝐰𝐢𝐧𝐠𝐬}}$
-
-- $\text{\color{#c7b360}{𝐈}\color{#c7b360}{'}\color{#bda55c}{𝐦} \color{#bda55c}{𝐯}\color{#b5a05c}{𝐞}\color{#b5a05c}{𝐫}\color{#a98f5c}{𝐲} \color{#a98f5c}{𝐜}\color{#9e805e}{𝐨}\color{#9e805e}{𝐦}\color{#9e805e}{𝐩}\color{#8b6b6b}{𝐞}\color{#8b6b6b}{𝐭}\color{#84636c}{𝐢}\color{#84636c}{𝐭}\color{#7d5b71}{𝐢}\color{#775575}{𝐯}\color{#775575}{𝐞} \color{#715078}{𝐬}\color{#715078}{𝐨}\color{#6c457f}{𝐦}\color{#6c457f}{𝐞}\color{#684081}{𝐭}\color{#684081}{𝐢}\color{#642e86}{𝐦}\color{#642e86}{𝐞}\color{#642e86}{𝐬}, \color{#642e86}{𝐢}\color{#642e86}{𝐟} \color{#642e86}{𝐭}\color{#642e86}{𝐡}\color{#642e86}{𝐚}\color{#642e86}{𝐭} \color{#642e86}{𝐛}\color{#642e86}{𝐨}\color{#642e86}{𝐭}\color{#642e86}{𝐡}\color{#642e86}{𝐞}\color{#642e86}{𝐫}\color{#642e86}{𝐬} \color{#642e86}{𝐲}\color{#642e86}{𝐨}\color{#642e86}{𝐮}.}$
+- $\text{\color{#c7b360}{𝐢} \color{#c3ae60}{𝐜𝐚𝐧} \color{#bfa95f}{𝐛𝐞} \color{#bba35d}{𝐬𝐨𝐦𝐞𝐰𝐡𝐚𝐭} \color{#b69d5c}{𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞} \color{#b1985b}{𝐚𝐧𝐝} \color{#ac925b}{𝐦𝐢𝐠𝐡𝐭} \color{#a78c5b}{𝐧𝐞𝐞𝐝} \color{#a2865c}{𝐫𝐞𝐚𝐬𝐬𝐮𝐫𝐚𝐧𝐜𝐞𝐬} \color{#9d805e}{𝐚} \color{#987a61}{𝐥𝐨𝐭} \color{#937465}{𝐬𝐨𝐫𝐫𝐲}}$
 
 - $\text{\color{#c7b360}{𝐞𝐦𝐨𝐭𝐢𝐨𝐧𝐚𝐥𝐥𝐲} \color{#bda55c}{𝐞𝐱𝐩𝐫𝐞𝐬𝐬𝐢𝐯𝐞} \color{#a98f5c}{𝐢} \color{#9e805e}{𝐥𝐨𝐯𝐞} \color{#8b6b6b}{𝐭𝐨} \color{#775575}{𝐮𝐬𝐞} \color{#642e86}{𝐞𝐦𝐨𝐭𝐢𝐜𝐨𝐧𝐬}}$
 
-- $\text{\color{#c7b360}{𝐰𝐨𝐧𝐭} \color{#bda55c}{𝐜𝐡𝐚𝐭} \color{#a98f5c}{𝐭𝐨} \color{#9e805e}{𝐮} \color{#8b6b6b}{𝐟𝐢𝐫𝐬𝐭} \color{#775575}{𝐮𝐧𝐥𝐞𝐬𝐬} \color{#642e86}{𝐢𝐦} \color{#642e86}{𝐢𝐧𝐭𝐫𝐢𝐠𝐮𝐞𝐝} \color{#642e86}{𝐨𝐟} \color{#642e86}{𝐮}}$
+- $\text{\color{#c7b360}{𝐢𝐦} \color{#bda55c}{𝐛𝐨𝐫𝐞𝐝} \color{#a98f5c}{𝐞𝐚𝐬𝐢𝐥𝐲} \color{#8b6b6b}{𝐰/} \color{#775575}{𝐬𝐦𝐚𝐥𝐥} \color{#642e86}{𝐭𝐚𝐥𝐤𝐬}}$
 
-- $\text{\color{#c7b360}{𝐢𝐦} \color{#bda55c}{𝐧𝐨𝐭} \color{#b5a05c}{𝐜𝐨𝐦𝐟} \color{#a98f5c}{𝐡𝐚𝐯𝐢𝐧𝐠} \color{#9e805e}{𝐫𝐨𝐦𝐚𝐧𝐭𝐢𝐜} \color{#8b6b6b}{𝐢𝐧𝐭𝐢𝐦𝐚𝐜𝐲} \color{#84636c}{𝐛𝐫𝐨𝐮𝐠𝐡𝐭} \color{#7d5b71}{𝐮𝐩} \color{#775575}{𝐨𝐫} \color{#715078}{𝐞𝐯𝐞𝐧} \color{#6c457f}{𝐚𝐬} \color{#684081}{𝐚} \color{#642e86}{𝐣𝐨𝐤𝐞} \color{#642e86}{𝐢𝐟} \color{#642e86}{𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐥𝐲}}$
-
-- $\text{\color{#c7b360}{𝐢𝐦} \color{#bda55c}{𝐛𝐨𝐫𝐞𝐝} \color{#a98f5c}{𝐞𝐚𝐬𝐢𝐥𝐲} \color{#8b6b6b}{𝐰} \color{#775575}{𝐬𝐦𝐚𝐥𝐥} \color{#642e86}{𝐭𝐚𝐥𝐤𝐬}}$
-
-- $\text{\color{#c7b360}{𝐦𝐨𝐬𝐭𝐥𝐲} \color{#bda55c}{𝐬𝐢𝐥𝐞𝐧𝐭} \color{#a98f5c}{𝐚𝐥𝐥} \color{#9e805e}{𝐭𝐡𝐞} \color{#8b6b6b}{𝐭𝐢𝐦𝐞} \color{#84636c}{,} \color{#7d5b71}{𝐠𝐨} \color{#775575}{𝐭𝐚𝐥𝐤} \color{#715078}{𝐚𝐛𝐭} \color{#6c457f}{𝐦𝐲} \color{#684081}{𝐟𝐚𝐯} \color{#642e86}{𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬} \color{#642e86}{𝐢𝐧𝐬𝐭𝐞𝐚𝐝} \color{#642e86}{𝐭𝐨} \color{#642e86}{𝐠𝐞𝐭} \color{#642e86}{𝐦𝐲} \color{#642e86}{𝐚𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧}}$
-
-- $\text{\color{#c7b360}{𝐢𝐝𝐦} \color{#bda55c}{𝐝𝐨𝐮𝐛𝐥𝐞𝐬} \color{#a98f5c}{,} \color{#9e805e}{𝐲𝐮𝐦𝐞𝐬𝐡𝐢𝐩𝐬} \color{#8b6b6b}{𝐝𝐨} \color{#84636c}{𝐢𝐧𝐭} \color{#7d5b71}{𝐰} \color{#775575}{𝐜𝐚𝐫𝐞} \color{#715078}{𝐨𝐫} \color{#6c457f}{𝐝𝐧𝐢} \color{#684081}{𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐥𝐲} \color{#642e86}{,} \color{#642e86}{𝐦𝐚𝐤𝐞} \color{#642e86}{𝐢𝐭} \color{#642e86}{𝐞𝐚𝐬𝐢𝐞𝐫} \color{#642e86}{𝐟𝐨𝐫} \color{#642e86}{𝐮𝐬} \color{#642e86}{𝐛𝐨𝐭𝐡.}}$
+- $\text{\color{#c7b360}{𝐢𝐦} \color{#c3ae60}{𝐯𝐞𝐫𝐲} \color{#bfa95f}{𝐬𝐢𝐥𝐞𝐧𝐭} \color{#bba35d}{𝐚𝐧𝐝} \color{#b69d5c}{𝐦𝐨𝐫𝐞} \color{#b1985b}{𝐜𝐨𝐦𝐟𝐨𝐫𝐭𝐚𝐛𝐥𝐞} \color{#ac925b}{𝐰𝐢𝐭𝐡} \color{#a78c5b}{𝐢𝐭} \color{#a2865c}{𝐞𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐥𝐲} \color{#9d805e}{𝐰𝐡𝐞𝐧} \color{#987a61}{𝐜+𝐡}}$
 
 <br>
 </table>
