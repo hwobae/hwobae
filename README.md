@@ -6,15 +6,17 @@
 
 <div align="center">
 
-$\text{\color{#c7b360}{𝐻𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝐴𝑦𝑑𝑒𝑛} \quad \color{#775575}{,} \quad \color{#684081}{𝑆𝑖𝑟𝑔𝑖𝑙} \quad \color{#642e86}{𝑜𝑟} \quad \color{#c7b360}{𝑁𝑢𝑙𝑙}}$
+<div align="center">
 
-$\text{\color{#c7b360}{17} \quad \color{#775575}{𝑦}}$
+$\text{\color{#c7b360}{𝐻}\color{#c3ae5e}{𝑤}\color{#bea65c}{𝑜}\color{#b99f5c}{𝑎}\color{#b2975b}{𝑟}\color{#aa8e5d}{𝑎}\color{#a28560}{𝑛}\color{#997c63}{𝑔} \quad \color{#917466}{,} \quad \color{#896b6b}{𝐴}\color{#82636f}{𝑦}\color{#7c5c73}{𝑑}\color{#765577}{𝑒}\color{#715078}{𝑛} \quad \color{#6e4b7c}{,} \quad \color{#6c477e}{𝑆}\color{#694381}{𝑖}\color{#674083}{𝑟}\color{#653c85}{𝑔}\color{#643986}{𝑖}\color{#642e86}{𝑙} \quad \color{#c7b360}{𝑜}\color{#a98f5c}{𝑟} \quad \color{#775575}{𝑁}\color{#684081}{𝑢}\color{#642e86}{𝑙𝑙}}$
 
-$\text{\color{#c7b360}{𝑇𝒉𝑒𝑦} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝑇𝒉𝑒𝑚} \quad \color{#775575}{/} \quad \color{#684081}{𝑊𝑒} \quad \color{#642e86}{𝑜𝑛𝑙𝑦}}$
+$\text{\color{#c7b360}{17} \quad \color{#8b6b6b}{𝑦}}$
 
-$\text{\color{#c7b360}{𝐻𝑤𝑜𝑎𝑟𝑎𝑛𝑔'𝑠} \quad \color{#a98f5c}{𝐻𝑢𝑠𝑏𝑎𝑛𝑑/𝑊𝑖𝑓𝑒}}$
+$\text{\color{#c7b360}{𝑇}\color{#bda55c}{𝒉}\color{#a98f5c}{𝑒}\color{#8b6b6b}{𝑦} \quad \color{#775575}{,} \quad \color{#715078}{𝑇}\color{#6c457f}{𝒉}\color{#684081}{𝑒}\color{#642e86}{𝑚} \quad \color{#a98f5c}{/} \quad \color{#bda55c}{𝑊}\color{#9e805e}{𝑒} \quad \color{#775575}{𝑜}\color{#642e86}{𝑛𝑙𝑦}}$
 
-$\text{\color{#8b6b6b}{+} \quad \color{#775575}{𝐾𝑖𝑛} \quad \color{#684081}{𝑑'𝑎𝑤𝑤}}$
+$\text{\color{#c7b360}{𝐻}\color{#bda55c}{𝑤}\color{#b5a05c}{𝑜}\color{#a98f5c}{𝑎}\color{#9e805e}{𝑟}\color{#8b6b6b}{𝑎}\color{#775575}{𝑛}\color{#715078}{𝑔}\color{#6c457f}{'}\color{#684081}{𝑠} \quad \color{#bda55c}{𝐻}\color{#b5a05c}{𝑢}\color{#a98f5c}{𝑠}\color{#9e805e}{𝑏}\color{#8b6b6b}{𝑎}\color{#775575}{𝑛}\color{#715078}{𝑑}\color{#6c457f}{/}\color{#684081}{𝑊}\color{#642e86}{𝑖𝑓𝑒}}$
+
+$\text{\color{#a98f5c}{+} \quad \color{#8b6b6b}{𝐾}\color{#775575}{𝑖}\color{#715078}{𝑛} \quad \color{#6c457f}{𝑑}\color{#684081}{'}\color{#642e86}{𝑎}\color{#642e86}{𝑤}\color{#642e86}{𝑤}}$
 
 </div>
 
@@ -26,6 +28,20 @@ $\text{\color{#8b6b6b}{+} \quad \color{#775575}{𝐾𝑖𝑛} \quad \color{#6840
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+
+$\text{\color{#c7b360}{𝑕}\color{#c3ae5e}{𝑒}\color{#bea65c}{𝑎}\color{#b99f5c}{𝑣}\color{#b2975b}{𝑦} \quad \color{#aa8e5d}{𝑚}\color{#a28560}{𝑜}\color{#997c63}{𝑜}\color{#917466}{𝑑} \quad \color{#896b6b}{𝑠}\color{#82636f}{𝒉}\color{#7c5c73}{𝑖}\color{#765577}{𝑓}\color{#715078}{𝑡}\color{#6c457f}{𝑖}\color{#684081}{𝑛}\color{#642e86}{𝑔} \quad \color{#8b6b6b}{𝑠}\color{#775575}{𝑟}\color{#684081}{𝑟}\color{#642e86}{𝑦}}$
+
+$\text{\color{#c7b360}{𝑖} \quad \color{#bda55c}{𝑏}\color{#a98f5c}{𝑙}\color{#8b6b6b}{𝑜}\color{#775575}{𝑐}\color{#684081}{𝑘} \quad \color{#b5a05c}{𝑓}\color{#a98f5c}{𝑟}\color{#9e805e}{𝑒}\color{#8b6b6b}{𝑒}\color{#775575}{𝑙}\color{#684081}{𝑦}}$
+
+$\text{\color{#c7b360}{𝑚𝑎𝑖𝑛} \quad \color{#bda55c}{𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑠} \quad \color{#a98f5c}{:} \quad \color{#b5a05c}{𝑇𝑒𝑘𝑘𝑒𝑛} \quad \color{#9e805e}{,} \quad \color{#8b6b6b}{𝑃𝑟𝑜𝑗𝑒𝑐𝑡} \quad \color{#775575}{𝑍𝑜𝑚𝑏𝑜𝑖𝑑}}$
+
+$\text{\color{#c7b360}{𝑇𝑜𝑜𝑛𝑠} \quad \color{#b5a05c}{𝑈𝑛𝑖𝑣} \quad \color{#a98f5c}{,} \quad \color{#9e805e}{𝑃𝑙𝑎𝑛𝑡𝑠} \quad \color{#8b6b6b}{𝑣𝑠} \quad \color{#775575}{𝑍𝑜𝑚𝑏𝑖𝑒𝑠} \quad \color{#715078}{,} \quad \color{#684081}{𝐿4𝐷2}}$
+
+$\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝐻𝑜𝑚𝑒𝑠𝑡𝑢𝑐𝑘}}$
+
 </div>
 
 <table>
