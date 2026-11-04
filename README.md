@@ -76,3 +76,31 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 </table>
 
 </p>
+
+<details>
+<summary>
+
+$\text{\color{#c7b360}{灬} \color{#bda55c}{𝑜𝑜𝑚𝑓𝑠} \color{#684081}{✧} \color{#642e86}{灬}}$
+
+</summary>
+
+<div align="center">
+
+<details>
+<summary>
+
+$\text{\color{#c7b360}{灬} \color{#bda55c}{𝑜𝑜𝑚𝑓𝑠} \color{#684081}{✧} \color{#642e86}{灬}}$
+
+</summary>
+
+<div align="center">
+
+$\text{<a href="https://github.com/mrfishsandwhich">𝑑𝑎</a>\color{#bea65c}{𝑒} \quad \color{#a98f5c}{,} \quad <a href="https://github.com/pur3lies">𝑠𝑢</a>\color{#896b6b}{𝑘𝑢𝑛𝑎} \quad \color{#775575}{/} \quad \color{#715078}{𝑗𝑒𝑠𝑡𝑒𝑟} \quad \color{#684081}{,} \quad <a href="https://github.com/acerbicSerpentine">𝑡𝑖</a>\color{#715078}{𝑛} \quad \color{#775575}{/} \quad \color{#8b6b6b}{𝑣𝑟𝑖𝑠𝑘𝑎}}$
+
+$\text{<a href="https://github.com/Ze-Doktor">\color{#c7b360}{𝑖𝑓}</a>\color{#bda55c}{𝑎} \quad \color{#a98f5c}{,} \quad <a href="https://github.com/windlesstorm">\color{#9e805e}{𝑠𝑜}</a>\color{#8b6b6b}{𝑛𝑘𝑦} \quad \color{#775575}{,} \quad <a href="https://github.com/spikedfist">\color{#684081}{𝑐𝑜}</a>\color{#642e86}{𝑙𝑙𝑖𝑛} \quad \color{#775575}{/} \quad \color{#8b6b6b}{𝑎𝑟𝑎𝑑𝑖𝑎} \quad \color{#a98f5c}{,} \quad <a href="https://github.com/pouncedeleon">𝑠𝒉</a>\color{#8b6b6b}{𝑎𝑟𝑘} \quad \color{#775575}{/} \quad \color{#684081}{𝑛𝑒𝑝𝑒𝑡𝑎}}$
+
+$\text{<a href="https://github.com/scientificmadman">𝑝𝑖𝑙</a>\color{#bda55c}{𝑏𝑦} \quad \color{#9e805e}{,} \quad <a href="https://github.com/doomfraid">𝑖𝑝</a>\color{#775575}{𝑒𝑘} \quad \color{#684081}{/} \quad \color{#642e86}{𝑟𝑖𝑟𝑖}}$
+
+</div>
+
+</details>
