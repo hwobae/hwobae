@@ -4,30 +4,27 @@
 
 </p>
 
-<div align="center">
-
-<div align="left">
 <table>
 <tr>
 <td align="left" valign="middle">
 
-$\text{\color{#c7b360}{⍣} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \qquad \color{#8b6b6b}{,} \qquad \color{#775575}{𝑎𝑦𝑑𝑒𝑛} \color{#642e86}{⁕}}$
+$\text{\color{#c7b360}{𖦹} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \qquad\qquad \color{#8b6b6b}{,} \qquad\qquad \color{#775575}{𝑎𝑦𝑑𝑒𝑛} \color{#642e86}{⁂}}$
 
 <br>
 
-$\text{\color{#c7b360}{❍} \color{#bda55c}{𝑠𝑖𝑟𝑔𝑖𝑙} \qquad \color{#8b6b6b}{,} \qquad \color{#775575}{𝑛𝑢𝑙𝑙} \color{#642e86}{❞}}$
+$\text{\color{#c7b360}{﹑} \color{#bda55c}{𝑠𝑖𝑟𝑔𝑖𝑙} \quad \color{#8b6b6b}{,} \quad \color{#775575}{𝑛𝑢𝑙𝑙} \color{#642e86}{﹒}}$
 
 <br>
 
-$\text{\color{#bda55c}{17} \qquad \color{#8b6b6b}{𝑦} \qquad \color{#775575}{☄}}$
+$\text{\color{#bda55c}{17} \qquad\qquad \color{#8b6b6b}{𝑦} \qquad\qquad \color{#775575}{☄︎}}$
 
 <br>
 
-$\text{\color{#c7b360}{⸝⸝} \color{#bda55c}{𝑡ℎ𝑒𝑦} \qquad \qquad \color{#775575}{𝑡ℎ𝑒𝑚} \color{#642e86}{⸝⸝}}$
+$\text{\color{#c7b360}{⸝} \color{#bda55c}{𝑡ℎ𝑒𝑦} \quad \color{#775575}{𝑡ℎ𝑒𝑚} \color{#642e86}{⸝}}$
 
 <br>
 
-$\text{\color{#bda55c}{𝑜𝑛𝑙𝑦} \qquad \color{#775575}{.} \qquad \color{#642e86}{𖦹}}$
+$\text{\color{#bda55c}{𝑜𝑛𝑙𝑦} \qquad \color{#775575}{.} \qquad \color{#642e86}{⌾}}$
 
 </td>
 
@@ -36,8 +33,6 @@ $\text{\color{#bda55c}{𝑜𝑛𝑙𝑦} \qquad \color{#775575}{.} \qquad \color
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 <table>
 <tr>
