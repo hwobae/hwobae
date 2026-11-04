@@ -76,39 +76,41 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 </table>
 
 </p>
-  
-<details>
-<summary>✧ 𝑜𝑜𝑚𝑓𝑠 ✧</summary>
 
 <div align="center">
 
-<font color="#c7b360"><a href="https://github.com/mrfishsandwhich">𝑑𝑎</a>𝑒</font>
-<font color="#a98f5c">,</font>
-<font color="#9e805e"><a href="https://github.com/pur3lies">𝑠𝑢</a>𝑘𝑢𝑛𝑎</font>
-<font color="#775575">/ 𝑗𝑒𝑠𝑡𝑒𝑟</font>
-<font color="#684081">,</font>
-<font color="#642e86"><a href="https://github.com/acerbicSerpentine">𝑡𝑖</a>𝑛</font>
-<font color="#8b6b6b">/ 𝑣𝑟𝑖𝑠𝑘𝑎</font>
+<details>
+<summary>$\text{\color{#c7b360}{✧}}$ $\text{\color{#a98f5c}{𝑜𝑜}}$$\text{\color{#9e805e}{𝑚𝑓}}$$\text{\color{#775575}{𝑠}}$ $\text{\color{#642e86}{✧}}$</summary>
+  
+<div align="center">
+
+$\text{\color{#c7b360}{}}$ <a href="https://github.com/mrfishsandwhich" style="color: #c7b360;">𝑑𝑎</a><span style="color: #c7b360;">𝑒</span>
+$\text{\color{#a98f5c}{,}}$
+<a href="https://github.com/pur3lies" style="color: #9e805e;">𝑠𝑢</a><span style="color: #9e805e;">𝑘𝑢𝑛𝑎</span>
+$\text{\color{#775575}{/ 𝑗𝑒𝑠𝑡𝑒𝑟}}$
+$\text{\color{#684081}{,}}$
+<a href="https://github.com/acerbicSerpentine" style="color: #642e86;">𝑡𝑖</a><span style="color: #642e86;">𝑛</span>
+$\text{\color{#8b6b6b}{/ 𝑣𝑟𝑖𝑠𝑘𝑎}}$
 
 <br>
 
-<font color="#c7b360"><a href="https://github.com/Ze-Doktor">𝑖𝑓</a>𝑎</font>
-<font color="#a98f5c">,</font>
-<font color="#9e805e"><a href="https://github.com/windlesstorm">𝑠𝑜</a>𝑛𝑘𝑦</font>
-<font color="#8b6b6b">,</font>
-<font color="#775575"><a href="https://github.com/spikedfist">𝑐𝑜</a>𝑙𝑙𝑖𝑛</font>
-<font color="#715078">/ 𝑎𝑟𝑎𝑑𝑖𝑎</font>
-<font color="#684081">,</font>
-<font color="#8b6b6b"><a href="https://github.com/pouncedeleon">𝑠𝒉</a>𝑎𝑟𝑘</font>
-<font color="#775575">/ 𝑛𝑒𝑝𝑒𝑡𝑎</font>
+<a href="https://github.com/Ze-Doktor" style="color: #c7b360;">𝑖𝑓</a><span style="color: #c7b360;">𝑎</span>
+$\text{\color{#a98f5c}{,}}$
+<a href="https://github.com/windlesstorm" style="color: #9e805e;">𝑠𝑜</a><span style="color: #9e805e;">𝑛𝑘𝑦</span>
+$\text{\color{#8b6b6b}{,}}$
+<a href="https://github.com/spikedfist" style="color: #775575;">𝑐𝑜</a><span style="color: #775575;">𝑙𝑙𝑖𝑛</span>
+$\text{\color{#715078}{/ 𝑎𝑟𝑎𝑑𝑖𝑎}}$
+$\text{\color{#684081}{,}}$
+<a href="https://github.com/pouncedeleon" style="color: #8b6b6b;">𝑠𝒉</a><span style="color: #8b6b6b;">𝑎𝑟𝑘</span>
+$\text{\color{#775575}{/ 𝑛𝑒𝑝𝑒𝑡𝑎}}$
 
 <br>
 
-<font color="#c7b360"><a href="https://github.com/scientificmadman">𝑝𝑖𝑙</a>𝑏𝑦</font>
-<font color="#9e805e">,</font>
-<font color="#8b6b6b"><a href="https://github.com/doomfraid">𝑖𝑝</a>𝑒𝑘</font>
-<font color="#775575">/</font>
-<font color="#642e86">𝑟𝑖𝑟𝑖</font>
+<a href="https://github.com/scientificmadman" style="color: #c7b360;">𝑝𝑖𝑙</a><span style="color: #c7b360;">𝑏𝑦</span>
+$\text{\color{#9e805e}{,}}$
+<a href="https://github.com/doomfraid" style="color: #8b6b6b;">𝑖𝑝</a><span style="color: #8b6b6b;">𝑒𝑘</span>
+$\text{\color{#775575}{/}}$
+$\text{\color{#642e86}{𝑟𝑖𝑟𝑖}}$
 
 </div>
 </details>
