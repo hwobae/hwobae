@@ -4,24 +4,21 @@
 
 </p>
 
-<table width="100%">
-<tr>
-
-<td align="left" valign="middle" width="36%">
+<div align="left">
 
 $\text{\color{#c7b360}{𖦹} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \quad \color{#8b6b6b}{,} \quad \color{#775575}{𝑎𝑦𝑑𝑒𝑛} \color{#642e86}{⁂}}$
 
 <br>
 
-$\text{\color{#c7b360}{﹑} \color{#bda55c}{𝑠𝑖𝑟𝑔𝑖𝑙}  \color{#8b6b6b}{,}  \color{#775575}{𝑛𝑢𝑙𝑙} \color{#642e86}{﹒}}$
+$\text{\color{#c7b360}{﹑} \color{#bda55c}{𝑠𝑖𝑟𝑔𝑖𝑙} \color{#8b6b6b}{,} \color{#775575}{𝑛𝑢𝑙𝑙} \color{#642e86}{﹒}}$
 
 <br>
 
-$\text{\color{#bda55c}{17} \quad \color{#8b6b6b}{𝑦}  \color{#775575}{☄︎}}$
+$\text{\color{#bda55c}{17} \quad \color{#8b6b6b}{𝑦} \color{#775575}{☄︎}}$
 
 <br>
 
-$\text{\color{#c7b360}{⸝} \color{#bda55c}{𝑡ℎ𝑒𝑦}  \color{#775575}{𝑡ℎ𝑒𝑚} \color{#642e86}{⸝}}$
+$\text{\color{#c7b360}{⸝} \color{#bda55c}{𝑡ℎ𝑒𝑦} \color{#775575}{𝑡ℎ𝑒𝑚} \color{#642e86}{⸝}}$
 
 <br>
 
@@ -29,19 +26,19 @@ $\text{\color{#bda55c}{𝑜𝑛𝑙𝑦} \quad \color{#775575}{.} \quad \color{#
 
 <br>
 
-$\text{\color{#c7b360}{𓇥} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔𝑠}  \color{#8b6b6b}{ℎ𝑢𝑠𝑏𝑎𝑛𝑑/𝑤𝑖𝑓𝑒}}$
+$\text{\color{#c7b360}{𓇥} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔𝑠} \color{#8b6b6b}{ℎ𝑢𝑠𝑏𝑎𝑛𝑑/𝑤𝑖𝑓𝑒}}$
 
 <br>
 
-$\text{\color{#bda55c}{+}  \color{#8b6b6b}{𝑚𝑦}  \color{#775575}{𝑘𝑖𝑛} \quad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#642e86}{𖧧}}$
+$\text{\color{#bda55c}{+} \color{#8b6b6b}{𝑚𝑦} \color{#775575}{𝑘𝑖𝑛} \quad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#642e86}{𖧧}}$
 
-</td>
-
-<td align="center" valign="middle" width="24%">
+<table>
+<tr>
+<td align="center" valign="middle">
 <img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="160">
 </td>
-
-<td align="right" valign="middle" width="40%">
+</tr>
+</table>
 
 $\text{\color{#642e86}{⩩} \color{#775575}{𝑛𝑢𝑙𝑙} \quad \color{#8b6b6b}{+} \quad \color{#a98f5c}{𝑐𝑜𝑝𝑝𝑒𝑟} \quad \color{#b5a05c}{𝑤𝑖𝑠ℎ𝑙𝑖𝑛𝑔} \quad \color{#c7b360}{𝑓𝑖𝑐𝑡𝑘𝑖𝑛𝑠} \quad \color{#c7b360}{⌘}}$
 
@@ -65,14 +62,11 @@ $\text{\color{#b5a05c}{𝑡𝑒𝑘𝑘𝑒𝑛} \quad \color{#bda55c}{,} \quad 
 
 $\text{\color{#775575}{𝑡𝑜𝑜𝑛𝑠} \quad \color{#715078}{𝑢𝑛𝑖𝑣} \quad \color{#6c457f}{,} \quad \color{#684081}{𝑙4𝑑2} \quad \color{#642e86}{,} \quad \color{#642e86}{𝑟𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \color{#642e86}{⎔}}$
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <table>
 <tr>
-<td align="center">
+<td align="right">
 
 $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b5a05c}{𝑡}\color{#a98f5c}{𝑟}\color{#9e805e}{𝑎}\color{#8b6b6b}{𝑤}\color{#775575}{𝑝}\color{#715078}{𝑎}\color{#6c457f}{𝑔}\color{#684081}{𝑒} \qquad \color{#775575}{,} \color{#715078}{ⅱ.} \color{#bda55c}{𝑎}\color{#a98f5c}{𝑡}\color{#8b6b6b}{𝑎} \qquad \color{#775575}{,} \color{#715078}{ⅲ.} \color{#bda55c}{𝑝}\color{#b5a05c}{𝑟}\color{#a98f5c}{𝑜}\color{#9e805e}{𝑛}\color{#8b6b6b}{𝑜}\color{#775575}{𝑢}\color{#715078}{𝑛}\color{#6c457f}{𝑠}\color{#684081}{.}\color{#642e86}{𝑐}\color{#642e86}{𝑐} \color{#642e86}{灬}}$
 </td>
