@@ -16,7 +16,7 @@ $\text{\color{#c7b360}{﹑} \color{#bda55c}{𝑠𝑖𝑟𝑔𝑖𝑙} \quad \col
 
 <br>
 
-$\text{\color{#bda55c}{17} \qquad\qquad \color{#8b6b6b}{𝑦} \qquad\qquad \color{#775575}{☄︎}}$
+$\text{\color{#bda55c}{17} \qquad\qquad \color{#8b6b6b}{𝑦} \quad \color{#775575}{☄︎}}$
 
 <br>
 
@@ -32,7 +32,7 @@ $\text{\color{#c7b360}{𓇥} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔𝑠
 
 <br>
 
-$\text{\color{#bda55c}{+} \quad \color{#8b6b6b}{𝑚𝑦} \quad \color{#775575}{𝑘𝑖𝑛} \qquad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#c7b360}{𖧧}}$
+$\text{\color{#bda55c}{+} \quad \color{#8b6b6b}{𝑚𝑦} \quad \color{#775575}{𝑘𝑖𝑛} \qquad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#642e86}{𖧧}}$
 
 </td>
 
