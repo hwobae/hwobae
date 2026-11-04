@@ -4,10 +4,19 @@
 
 </p>
 
-<div align="left">
+<div align="center">
 
+$\text{\color{#c7b360}{𝐻𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝐴𝑦𝑑𝑒𝑛} \quad \color{#775575}{,} \quad \color{#684081}{𝑆𝑖𝑟𝑔𝑖𝑙} \quad \color{#642e86}{𝑜𝑟} \quad \color{#c7b360}{𝑁𝑢𝑙𝑙}}$
 
-</p>
+$\text{\color{#c7b360}{17} \quad \color{#775575}{𝑦}}$
+
+$\text{\color{#c7b360}{𝑇𝒉𝑒𝑦} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝑇𝒉𝑒𝑚} \quad \color{#775575}{/} \quad \color{#684081}{𝑊𝑒} \quad \color{#642e86}{𝑜𝑛𝑙𝑦}}$
+
+$\text{\color{#c7b360}{𝐻𝑤𝑜𝑎𝑟𝑎𝑛𝑔'𝑠} \quad \color{#a98f5c}{𝐻𝑢𝑠𝑏𝑎𝑛𝑑/𝑊𝑖𝑓𝑒}}$
+
+$\text{\color{#8b6b6b}{+} \quad \color{#775575}{𝐾𝑖𝑛} \quad \color{#684081}{𝑑'𝑎𝑤𝑤}}$
+
+</div>
 
 <div align="center">
 <table>
