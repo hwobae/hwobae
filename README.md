@@ -26,6 +26,14 @@ $\text{\color{#c7b360}{⸝} \color{#bda55c}{𝑡ℎ𝑒𝑦} \quad \color{#77557
 
 $\text{\color{#bda55c}{𝑜𝑛𝑙𝑦} \qquad \color{#775575}{.} \qquad \color{#642e86}{⌾}}$
 
+<br>
+
+$\text{\color{#c7b360}{𓇥} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔𝑠} \quad \color{#8b6b6b}{ℎ𝑢𝑠𝑏𝑎𝑛𝑑/𝑤𝑖𝑓𝑒}}$
+
+<br>
+
+$\text{\color{#bda55c}{+} \quad \color{#8b6b6b}{𝑚𝑦} \quad \color{#775575}{𝑘𝑖𝑛} \qquad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#c7b360}{𖧧}}$
+
 </td>
 
 <td align="center" valign="middle">
