@@ -12,8 +12,6 @@
 
 <div align="center">
 
-$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.}
-
 <table>
 <tr>
 <td align="center">
