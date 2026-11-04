@@ -1,35 +1,3 @@
-$$
-\textcolor{#c7b360}{𝑕}\textcolor{#bda55c}{𝑤}\textcolor{#b5a05c}{𝑜}\textcolor{#a98f5c}{𝑎}\textcolor{#9e805e}{𝑟}\textcolor{#8b6b6b}{𝑎}\textcolor{#775575}{𝑛}\textcolor{#715078}{𝑔}
-\qquad
-\textcolor{#8b6b6b}{,}
-\qquad
-\textcolor{#bda55c}{𝑎}\textcolor{#a98f5c}{𝑦}\textcolor{#8b6b6b}{𝑑}\textcolor{#775575}{𝑒}\textcolor{#684081}{𝑛}
-\\[0.45em]
-\textcolor{#c7b360}{𝑁}\textcolor{#b5a05c}{𝑢}\textcolor{#9e805e}{𝑙}\textcolor{#775575}{𝑙}
-\qquad
-\textcolor{#8b6b6b}{,}
-\qquad
-\textcolor{#bda55c}{𝑠}\textcolor{#b5a05c}{𝑖}\textcolor{#a98f5c}{𝑟}\textcolor{#9e805e}{𝑔}\textcolor{#775575}{𝑖}\textcolor{#684081}{𝑙}
-\\[0.45em]
-\textcolor{#c7b360}{17}\textcolor{#8b6b6b}{𝑦}
-\\[0.45em]
-\textcolor{#c7b360}{𝑕}\textcolor{#bda55c}{𝑤}\textcolor{#b5a05c}{𝑜}\textcolor{#a98f5c}{𝑎}\textcolor{#9e805e}{𝑟}\textcolor{#8b6b6b}{𝑎}\textcolor{#775575}{𝑛}\textcolor{#715078}{𝑔}\textcolor{#6c457f}{𝑠}
-\qquad
-\textcolor{#bda55c}{𝑕}\textcolor{#a98f5c}{𝑢}\textcolor{#9e805e}{𝑠}\textcolor{#8b6b6b}{𝑏}\textcolor{#775575}{𝑎}\textcolor{#715078}{𝑛}\textcolor{#684081}{𝑑}
-/
-\textcolor{#bda55c}{𝑤}\textcolor{#a98f5c}{𝑖}\textcolor{#9e805e}{𝑓}\textcolor{#775575}{𝑒}
-\\[0.45em]
-\textcolor{#c7b360}{𝑕}\textcolor{#bda55c}{𝑒}\textcolor{#b5a05c}{'}\textcolor{#a98f5c}{𝑠}
-\qquad
-\textcolor{#9e805e}{𝑚}\textcolor{#8b6b6b}{𝑦}
-\qquad
-\textcolor{#775575}{𝑘}\textcolor{#715078}{𝑖}\textcolor{#6c457f}{𝑛}
-\qquad
-\textcolor{#b5a05c}{𝑡}\textcolor{#a98f5c}{𝑜}\textcolor{#8b6b6b}{𝑜}
-\qquad
-\textcolor{#775575}{𝑑}\textcolor{#715078}{'}\textcolor{#6c457f}{𝑎}\textcolor{#684081}{𝑤}\textcolor{#642e86}{𝑤}
-$$
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=sejopi&style=plastic&color=6d4a7d&label=𝑐𝑎𝑛𝑑𝑙𝑒𝑙𝑖𝑔ℎ𝑡𝑠‎ )
