@@ -153,7 +153,7 @@ $\text{\color{#b59a58}{𝐫}\color{#af9158}{𝐨}\color{#a9885a}{𝐬}\color{#a3
 
 - $\text{\color{#c7b360}{𝐩𝐥𝐞𝐚𝐬𝐞} \color{#bfa95f}{𝐛𝐞} \color{#b69d5c}{𝐩𝐚𝐭𝐢𝐞𝐧𝐭} \color{#ac925b}{𝐰𝐢𝐭𝐡} \color{#a2865c}{𝐦𝐞} \color{#987a61}{𝐬𝐢𝐧𝐜𝐞} \color{#8e6e68}{𝐢} \color{#84646e}{𝐜𝐚𝐧} \color{#7b5a74}{𝐛𝐞} \color{#715079}{𝐬𝐥𝐨𝐰} \color{#6d4b7c}{𝐲𝐞𝐭} \color{#68467f}{𝐢𝐦𝐩𝐮𝐥𝐬𝐢𝐯𝐞} \color{#642e86}{𝐥𝐨𝐥}}$
  
-- $\text{\color{#c7b360}{𝐝𝐨𝐮𝐛𝐥𝐞𝐬} \color{#c3ae60}{𝐟𝐫𝐞𝐞𝐥𝐲} \color{#bfa95f}{𝐢𝐧𝐭} \color{#bba35d}{𝐣𝐮𝐬𝐭} \color{#b69d5c}{𝐝𝐨𝐧𝐭} \color{#b1985b}{𝐛𝐞} \color{#ac925b}{𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞}}$
+- $\text{\color{#c7b360}{𝐝𝐨𝐮𝐛𝐥𝐞𝐬} \color{#bfa95f}{𝐟𝐫𝐞𝐞𝐥𝐲} \color{#ac925b}{𝐢𝐧𝐭} \color{#987a61}{𝐣𝐮𝐬𝐭} \color{#84646e}{𝐝𝐨𝐧𝐭} \color{#715079}{𝐛𝐞} \color{#642e86}{𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞}}$
 
 - $\text{\color{#c7b360}{𝐢} \color{#bfa95f}{𝐜𝐚𝐧} \color{#b69d5c}{𝐛𝐞} \color{#ac925b}{𝐬𝐨𝐦𝐞𝐰𝐡𝐚𝐭} \color{#a2865c}{𝐜𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐯𝐞} \color{#987a61}{𝐚𝐧𝐝} \color{#8e6e68}{𝐦𝐢𝐠𝐡𝐭} \color{#84646e}{𝐧𝐞𝐞𝐝} \color{#7b5a74}{𝐫𝐞𝐚𝐬𝐬𝐮𝐫𝐚𝐧𝐜𝐞𝐬} \color{#715079}{𝐚} \color{#6d4b7c}{𝐥𝐨𝐭} \color{#68467f}{𝐬𝐨𝐫𝐫𝐲}}$
 
