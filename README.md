@@ -63,7 +63,7 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="auto">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/Null_Logo.png" alt="Null Logo" width="auto">
 </td>
 </tr>
 </table>
