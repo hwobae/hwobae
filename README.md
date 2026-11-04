@@ -52,7 +52,9 @@ $\text{\color{#642e86}{◈} \color{#775575}{𝑚𝑎𝑖𝑛} \color{#8b6b6b}{�
 </td>
 
 <td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="180">
+  <a href="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png">
+    <img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="180">
+  </a>
 </td>
 
 </tr>
