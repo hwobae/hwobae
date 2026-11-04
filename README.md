@@ -10,6 +10,18 @@
 
 </p>
 
+$\text\large{\color{#c7b360}{৻  𝐥}\color{#b59b5a}{𝐢}\color{#9c805f}{𝐧}\color{#806268}{𝐤}\color{#642e86}{𝐬  ৲}}$
+
+$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b5a05c}{𝐭}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐰}\color{#775575}{𝐩} \color{#775575}{,} \color{#715078}{ⅱ.} \color{#6c457f}{𝐚}\color{#684081}{𝐭}\color{#642e86}{𝐚} \color{#642e86}{,} \color{#642e86}{ⅲ.} \color{#642e86}{𝐩}\color{#642e86}{𝐫}\color{#642e86}{𝐨}\color{#642e86}{𝐧}\color{#642e86}{𝐨}\color{#642e86}{𝐮}\color{#642e86}{𝐧}\color{#642e86}{𝐬}\color{#642e86}{.}\color{#642e86}{𝐜}\color{#642e86}{𝐜} \color{#642e86}{灬}}$
+
+<a href="https://hwobae.straw.page">
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B1%5D.png" alt="strawpage_link" height=“50” width="50">
+  <a href="https://hwobae.atabook.org/">
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B2%5D.png" alt="atabook_link" width=50 height=“50” " >
+<a href="https://pronouns.cc/@hwobae">
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="pronouns.cc_link" height=“50” width="50">
+</a>
+
 <div align="center">
 
 <img width="340" height="280" alt="hwo" src="https://github.com/user-attachments/assets/6763db70-a0f9-41ef-9789-ed1387cd9365" /> <img width="340" height="280" alt="hwo  2" src="https://github.com/user-attachments/assets/11498b85-33f6-4355-b4f0-2beec0821b21" />
@@ -55,18 +67,6 @@ $\text{\color{#b59a58}{𝐫}\color{#af9158}{𝐨}\color{#a9885a}{𝐬}\color{#a3
 </details>
 
 </div>
-
-$\text\large{\color{#c7b360}{৻  𝐥}\color{#b59b5a}{𝐢}\color{#9c805f}{𝐧}\color{#806268}{𝐤}\color{#642e86}{𝐬  ৲}}$
-
-$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b5a05c}{𝐭}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐰}\color{#775575}{𝐩} \color{#775575}{,} \color{#715078}{ⅱ.} \color{#6c457f}{𝐚}\color{#684081}{𝐭}\color{#642e86}{𝐚} \color{#642e86}{,} \color{#642e86}{ⅲ.} \color{#642e86}{𝐩}\color{#642e86}{𝐫}\color{#642e86}{𝐨}\color{#642e86}{𝐧}\color{#642e86}{𝐨}\color{#642e86}{𝐮}\color{#642e86}{𝐧}\color{#642e86}{𝐬}\color{#642e86}{.}\color{#642e86}{𝐜}\color{#642e86}{𝐜} \color{#642e86}{灬}}$
-
-<a href="https://hwobae.straw.page">
-  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B1%5D.png" alt="strawpage_link" height=“50” width="50">
-  <a href="https://hwobae.atabook.org/">
-  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B2%5D.png" alt="atabook_link" width=50 height=“50” " >
-<a href="https://pronouns.cc/@hwobae">
-  <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="pronouns.cc_link" height=“50” width="50">
-</a>
 
 <details>
   <summary> $\text{\color{#c7b360}{𝐭}\color{#c1ab5c}{𝐲} \color{#bba259}{𝐩}\color{#b59a58}{𝐨}\color{#af9158}{𝐧}\color{#a9885a}{𝐲} \color{#a37f5c}{𝐭}\color{#9d765f}{𝐨}\color{#976d62}{𝐰}\color{#916465}{𝐧} \color{#8b6b6b}{𝐭}\color{#81606f}{𝐢}\color{#775575}{𝐭}\color{#6d4a7d}{𝐥}\color{#642e86}{𝐞} \color{#642e86}{𝐚}\color{#642e86}{𝐜}\color{#642e86}{𝐜}\color{#642e86}{𝐬}:}$ </summary>
