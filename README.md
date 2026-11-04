@@ -15,7 +15,8 @@
 <table>
 <tr>
 <td align="center">
-$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b5a05c}{𝐭}\color{#a98f5c}{𝐫}\color{#9e805e}{𝐚}\color{#8b6b6b}{𝐰}\color{#775575}{𝐩} \color{#775575}{,} \color{#715078}{ⅱ.} \color{#bda55c}{𝐚}\color{#a98f5c}{𝐭}\color{#8b6b6b}{𝐚} \color{#775575}{,} \color{#715078}{ⅲ.} \color{#bda55c}{𝐩}\color{#b5a05c}{𝐫}\color{#a98f5c}{𝐨}\color{#9e805e}{𝐧}\color{#8b6b6b}{𝐨}\color{#775575}{𝐮}\color{#715078}{𝐧}\color{#6c457f}{𝐬}\color{#684081}{.}\color{#642e86}{𝐜}\color{#642e86}{𝐜} \color{#642e86}{灬}}$
+
+$\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b5a05c}{𝑡}\color{#a98f5c}{𝑟}\color{#9e805e}{𝑎}\color{#8b6b6b}{𝑤}\color{#775575}{𝑝}\color{#715078}{𝑎}\color{#6c457f}{𝑔}\color{#684081}{𝑒} \qquad \color{#775575}{,} \color{#715078}{ⅱ.} \color{#bda55c}{𝑎}\color{#a98f5c}{𝑡}\color{#8b6b6b}{𝑎} \qquad \color{#775575}{,} \color{#715078}{ⅲ.} \color{#bda55c}{𝑝}\color{#b5a05c}{𝑟}\color{#a98f5c}{𝑜}\color{#9e805e}{𝑛}\color{#8b6b6b}{𝑜}\color{#775575}{𝑢}\color{#715078}{𝑛}\color{#6c457f}{𝑠}\color{#684081}{.}\color{#642e86}{𝑐}\color{#642e86}{𝑐} \color{#642e86}{灬}}$
 </td>
 </tr>
 </table>
