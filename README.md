@@ -22,6 +22,8 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝐬}\color{#b
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/icon%5B3%5D.png" alt="pronouns.cc_link" height=“50” width="50">
 </a>
 
+<br>
+
 <div align="center">
 
 <img width="340" height="280" alt="hwo" src="https://github.com/user-attachments/assets/6763db70-a0f9-41ef-9789-ed1387cd9365" /> <img width="340" height="280" alt="hwo  2" src="https://github.com/user-attachments/assets/11498b85-33f6-4355-b4f0-2beec0821b21" />
