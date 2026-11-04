@@ -4,71 +4,15 @@
 
 </p>
 
+<div align="center">
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="160">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="auto">
 </td>
 </tr>
 </table>
-
-<div align="left">
-
-$\text{\color{#c7b360}{𖦹} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \quad \color{#8b6b6b}{,} \quad \color{#775575}{𝑎𝑦𝑑𝑒𝑛} \color{#642e86}{⁂}}$
-
-<br>
-
-$\text{\color{#c7b360}{﹑} \color{#bda55c}{𝑠𝑖𝑟𝑔𝑖𝑙} \color{#8b6b6b}{,} \color{#775575}{𝑛𝑢𝑙𝑙} \color{#642e86}{﹒}}$
-
-<br>
-
-$\text{\color{#bda55c}{17} \quad \color{#8b6b6b}{𝑦} \color{#775575}{☄︎}}$
-
-<br>
-
-$\text{\color{#c7b360}{⸝} \color{#bda55c}{𝑡ℎ𝑒𝑦} \color{#775575}{𝑡ℎ𝑒𝑚} \color{#642e86}{⸝}}$
-
-<br>
-
-$\text{\color{#bda55c}{𝑜𝑛𝑙𝑦} \quad \color{#775575}{.} \quad \color{#642e86}{⌾}}$
-
-<br>
-
-$\text{\color{#c7b360}{𓇥} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔𝑠} \color{#8b6b6b}{ℎ𝑢𝑠𝑏𝑎𝑛𝑑/𝑤𝑖𝑓𝑒}}$
-
-<br>
-
-</p>
-
-<div align="right">
-
-$\text{\color{#bda55c}{+} \color{#8b6b6b}{𝑚𝑦} \color{#775575}{𝑘𝑖𝑛} \quad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#642e86}{𖧧}}$
-
-$\text{\color{#642e86}{⩩} \color{#775575}{𝑛𝑢𝑙𝑙} \quad \color{#8b6b6b}{+} \quad \color{#a98f5c}{𝑐𝑜𝑝𝑝𝑒𝑟} \quad \color{#b5a05c}{𝑤𝑖𝑠ℎ𝑙𝑖𝑛𝑔} \quad \color{#c7b360}{𝑓𝑖𝑐𝑡𝑘𝑖𝑛𝑠} \quad \color{#c7b360}{⌘}}$
-
-<br>
-
-$\text{\color{#642e86}{▱} \color{#775575}{ℎ𝑒𝑎𝑣𝑦} \quad \color{#8b6b6b}{𝑚𝑜𝑜𝑑} \quad \color{#a98f5c}{𝑠ℎ𝑖𝑓𝑡𝑖𝑛𝑔} \color{#b5a05c}{.}}$
-
-<br>
-
-$\text{\color{#c7b360}{𝑑𝑛𝑖} \quad \color{#b5a05c}{𝑒𝑥} \quad \color{#a98f5c}{𝑓𝑟𝑖𝑒𝑛𝑑𝑠} \quad \color{#8b6b6b}{/} \quad \color{#775575}{𝑖} \quad \color{#6c457f}{𝑏𝑙𝑜𝑐𝑘} \quad \color{#642e86}{𝑓𝑟𝑒𝑒𝑙𝑦} \quad \color{#642e86}{⌗}}$
-
-<br>
-
-$\text{\color{#642e86}{◈} \color{#775575}{𝑚𝑎𝑖𝑛} \quad \color{#8b6b6b}{𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑠} \quad \color{#a98f5c}{:}}$
-
-<br>
-
-$\text{\color{#b5a05c}{𝑡𝑒𝑘𝑘𝑒𝑛} \quad \color{#bda55c}{,} \quad \color{#b5a05c}{𝑝𝑧} \quad \color{#a98f5c}{,} \quad \color{#9e805e}{𝑝𝑣𝑧} \quad \color{#8b6b6b}{,}}$
-
-<br>
-
-$\text{\color{#775575}{𝑡𝑜𝑜𝑛𝑠} \quad \color{#715078}{𝑢𝑛𝑖𝑣} \quad \color{#6c457f}{,} \quad \color{#684081}{𝑙4𝑑2} \quad \color{#642e86}{,} \quad \color{#642e86}{𝑟𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \color{#642e86}{⎔}}$
-
 </div>
-
-</p>
 
 <table>
 <tr>
