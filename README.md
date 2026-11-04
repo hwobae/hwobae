@@ -4,6 +4,14 @@
 
 </p>
 
+<table>
+<tr>
+<td align="center" valign="middle">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="160">
+</td>
+</tr>
+</table>
+
 <div align="left">
 
 $\text{\color{#c7b360}{𖦹} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔} \quad \color{#8b6b6b}{,} \quad \color{#775575}{𝑎𝑦𝑑𝑒𝑛} \color{#642e86}{⁂}}$
@@ -30,15 +38,11 @@ $\text{\color{#c7b360}{𓇥} \color{#bda55c}{ℎ𝑤𝑜𝑎𝑟𝑎𝑛𝑔𝑠
 
 <br>
 
-$\text{\color{#bda55c}{+} \color{#8b6b6b}{𝑚𝑦} \color{#775575}{𝑘𝑖𝑛} \quad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#642e86}{𖧧}}$
+</p>
 
-<table>
-<tr>
-<td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled307.png" alt="Null Logo" width="160">
-</td>
-</tr>
-</table>
+<div align="right">
+
+$\text{\color{#bda55c}{+} \color{#8b6b6b}{𝑚𝑦} \color{#775575}{𝑘𝑖𝑛} \quad \color{#642e86}{𝑑'𝑎𝑤𝑤} \color{#642e86}{𖧧}}$
 
 $\text{\color{#642e86}{⩩} \color{#775575}{𝑛𝑢𝑙𝑙} \quad \color{#8b6b6b}{+} \quad \color{#a98f5c}{𝑐𝑜𝑝𝑝𝑒𝑟} \quad \color{#b5a05c}{𝑤𝑖𝑠ℎ𝑙𝑖𝑛𝑔} \quad \color{#c7b360}{𝑓𝑖𝑐𝑡𝑘𝑖𝑛𝑠} \quad \color{#c7b360}{⌘}}$
 
@@ -64,9 +68,11 @@ $\text{\color{#775575}{𝑡𝑜𝑜𝑛𝑠} \quad \color{#715078}{𝑢𝑛𝑖�
 
 </div>
 
+</p>
+
 <table>
 <tr>
-<td align="right">
+<td align="center">
 
 $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b5a05c}{𝑡}\color{#a98f5c}{𝑟}\color{#9e805e}{𝑎}\color{#8b6b6b}{𝑤}\color{#775575}{𝑝}\color{#715078}{𝑎}\color{#6c457f}{𝑔}\color{#684081}{𝑒} \qquad \color{#775575}{,} \color{#715078}{ⅱ.} \color{#bda55c}{𝑎}\color{#a98f5c}{𝑡}\color{#8b6b6b}{𝑎} \qquad \color{#775575}{,} \color{#715078}{ⅲ.} \color{#bda55c}{𝑝}\color{#b5a05c}{𝑟}\color{#a98f5c}{𝑜}\color{#9e805e}{𝑛}\color{#8b6b6b}{𝑜}\color{#775575}{𝑢}\color{#715078}{𝑛}\color{#6c457f}{𝑠}\color{#684081}{.}\color{#642e86}{𝑐}\color{#642e86}{𝑐} \color{#642e86}{灬}}$
 </td>
