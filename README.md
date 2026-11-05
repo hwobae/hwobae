@@ -108,6 +108,8 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
   $\text{\color{#c7b360}{✧.*}}$ $\text{\color{#bda55c}{˚₊·}}$ $\text{\color{#b39a59}{𝑒}\color{#a98f5c}{𝑦}\color{#9f825f}{𝑒}\color{#957665}{𝑠} \color{#8b6b6b}{𝑜}\color{#81606f}{𝑛} \color{#775575}{𝑡}\color{#6d4a7d}{ℎ}\color{#684081}{𝑒}\color{#642e86}{𝑚}}$ $\text{\color{#775575}{⋆｡˚}}$ $\text{\color{#642e86}{✧}}$
 </summary>
 
+<br>
+
 $\text{\color{#c7b360}{𝑡}\color{#bda55c}{ℎ}\color{#b39a59}{𝑒}\color{#a98f5c}{𝑠}\color{#9f825f}{𝑒}}$
 $\text{\color{#957665}{𝑎}\color{#8b6b6b}{𝑟}\color{#81606f}{𝑒}}$
 $\text{\color{#775575}{𝑛}\color{#715078}{𝑜}\color{#6d4a7d}{𝑡}}$
@@ -120,8 +122,6 @@ $\text{\color{#b39a59}{𝑎}\color{#a98f5c}{𝑟}\color{#9f825f}{𝑒}}$
 $\text{\color{#957665}{𝑤}\color{#8b6b6b}{𝑜}\color{#81606f}{𝑛}\color{#775575}{𝑑}\color{#715078}{𝑒}\color{#6d4a7d}{𝑟}\color{#684081}{𝑓}\color{#642e86}{𝑢}\color{#684081}{𝑙}}$
 $\text{\color{#6d4a7d}{𝑡}\color{#715078}{𝑜}}$
 $\text{\color{#775575}{𝑈}\color{#81606f}{𝑠}\color{#8b6b6b}{.}}$
-
-<br>
 
   <!-- dae FUNNY FISH FLY HELLO-->
 <a href="https://github.com/mrfishsandwhich">𝑑</a>$\text{\color{#a98f5c}{𝑎}\color{#642e86}{𝑒}}$<br>
