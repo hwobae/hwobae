@@ -109,37 +109,35 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 
 <details>
  <summary>
-  $\text{\color{#c7b360}{✧.*}}$ $\text{\color{#bda55c}{˚₊·}}$ $\text{\color{#b39a59}{𝑒}\color{#a98f5c}{𝑦}\color{#9f825f}{𝑒}\color{#957665}{𝑠} \color{#8b6b6b}{𝑜}\color{#81606f}{𝑛} \color{#775575}{𝑡}\color{#6d4a7d}{ℎ}\color{#684081}{𝑒} \color{#642e86}{𝑚}}$ $\text{\color{#775575}{⋆｡˚}}$ $\text{\color{#642e86}{✧}}$
+  $\text{\color{#c7b360}{✧.*}}$ $\text{\color{#bda55c}{˚₊·}}$ $\text{\color{#b39a59}{𝑒}\color{#a98f5c}{𝑦}\color{#9f825f}{𝑒}\color{#957665}{𝑠} \color{#8b6b6b}{𝑜}\color{#81606f}{𝑛} \color{#775575}{𝑡}\color{#6d4a7d}{ℎ}\color{#684081}{𝑒}\color{#642e86}{𝑚}}$ $\text{\color{#775575}{⋆｡˚}}$ $\text{\color{#642e86}{✧}}$
 </summary>
 
   <!-- dae FUNNY FISH FLY HELLO-->
-  <a href="https://github.com/mrfishsandwhich">𝑑</a>$\text{\color{#a98f5c}{𝑎}\color{#642e86}{𝑒}}$<br>
+<a href="https://github.com/mrfishsandwhich">𝑑</a>$\text{\color{#a98f5c}{𝑎}\color{#642e86}{𝑒}}$<br>
 
-  <!-- sukuna / jester , ABSOLUTE realest sukuna hes scary-->
-  <a href="https://github.com/pur3lies">𝑠𝑢<a>$\text{\color{#9e805e}{𝑘}\color{#775575}}${𝑢}\color{#684081}{𝑛}\color{#642e86}{𝑎}}$ $\text{\color{#c7b360}{/} \color{#c7b360}}${𝑗}\color{#a98f5c}}${𝑒}\color{#9e805e}}${𝑠}\color{#775575}{𝑡}\color{#684081}}${𝑒}\color{#642e86}{𝑟}}$<br>
+<!-- sukuna / jester , ABSOLUTE realest sukuna hes scary-->
+<a href="https://github.com/pur3lies">𝑠𝑢</a>$\text{\color{#9e805e}{𝑘}\color{#775575}{𝑢}\color{#684081}{𝑛}\color{#642e86}{𝑎} \color{#c7b360}{/} \color{#c7b360}{𝑗}\color{#a98f5c}{𝑒}\color{#9e805e}{𝑠}\color{#775575}{𝑡}\color{#684081}{𝑒}\color{#642e86}{𝑟}}$<br>
 
-  <!-- vriska / tin hi vrisvris-->
-  <a href="https://github.com/acerbicSerpentine">𝑣𝑟<a>$\text{\color{\color{#9e805e}{𝑖}\color{#775575}{𝑠}\color{#684081}{𝑘}\color{#642e86}{𝑎} \color{#642e86}{/} \color{#c7b360}{𝑡}\color{#a98f5c}{𝑖}\color{#642e86}{𝑛}}$<br>
+<!-- vriska / tin hi vrisvris-->
+<a href="https://github.com/acerbicSerpentine">𝑣𝑟</a>$\text{\color{#9e805e}{𝑖}\color{#775575}{𝑠}\color{#684081}{𝑘}\color{#642e86}{𝑎} \color{#642e86}{/} \color{#c7b360}{𝑡}\color{#a98f5c}{𝑖}\color{#642e86}{𝑛}}$<br>
 
-  <!-- ifa ze medic heh -->
-  <a href="https://github.com/Ze-Doktor">𝑖<a>$\text{\color{#a98f5c}{𝑓}\color{#642e86}{𝑎}}$<br>
+<!-- ifa ze medic heh -->
+<a href="https://github.com/Ze-Doktor">𝑖</a>$\text{\color{#a98f5c}{𝑓}\color{#642e86}{𝑎}}$<br>
 
-  <!-- ipek / riri my moiral aww-->
-  <a href="https://github.com/doomfraid">𝑖𝑝<a>$\text{\color{#9e805e}{𝑒}\color{#642e86}{𝑘} \color{#642e86}{/} \color{#c7b360}{𝑟}\color{#a98f5c}{𝑖}\color{#9e805e}{𝑟}\color{#642e86}{𝑖}}$<br>
+<!-- ipek / riri my moiral aww-->
+<a href="https://github.com/doomfraid">𝑖𝑝</a>$\text{\color{#9e805e}{𝑒}\color{#642e86}{𝑘} \color{#642e86}{/} \color{#c7b360}{𝑟}\color{#a98f5c}{𝑖}\color{#9e805e}{𝑟}\color{#642e86}{𝑖}}$<br>
 
-  <!-- sonky THIS FUNNY DORK bro istg /silly-->
-  <a href="https://github.com/windlesstorm">𝑠𝑜<a>$\text{\color{#9e805e}{𝑛}\color{#775575}{𝑘}\color{#642e86}{𝑦}}$<br>
+<!-- sonky THIS FUNNY DORK bro istg /silly-->
+<a href="https://github.com/windlesstorm">𝑠𝑜</a>$\text{\color{#9e805e}{𝑛}\color{#775575}{𝑘}\color{#642e86}{𝑦}}$<br>
 
-  <!-- aradia / collin hes so cool -->
-  <a href="https://github.com/spikedfist">𝑎𝑟<a>$\text{\color{#9e805e}{𝑎}\color{#775575}{𝑑}\color{#684081}{𝑖}\color{#642e86}{𝑎} \color{#642e86}{/} \color{#c7b360}{𝑐}\color{#a98f5c}{𝑜}\color{#9e805e}{𝑙}\color{#775575}{𝑙}\color{#684081}{𝑖}\color{#642e86}{𝑛}}$<br>
+<!-- aradia / collin hes so cool -->
+<a href="https://github.com/spikedfist">𝑎𝑟</a>$\text{\color{#9e805e}{𝑎}\color{#775575}{𝑑}\color{#684081}{𝑖}\color{#642e86}{𝑎} \color{#642e86}{/} \color{#c7b360}{𝑐}\color{#a98f5c}{𝑜}\color{#9e805e}{𝑙}\color{#775575}{𝑙}\color{#684081}{𝑖}\color{#642e86}{𝑛}}$<br>
 
-  <!-- nepeta / shark the realest kitty efur -->
-  <a href="https://github.com/pouncedeleon">𝑛𝑒<a>$\text{\color{#9e805e}{𝑝}\color{#775575}{𝑒}\color{#684081}{𝑡}\color{#642e86}{𝑎}}$ $\text{\color{#c7b360}{/} \color{#c7b360}{𝑠}\color{#a98f5c}{ℎ}\color{#9e805e}{𝑎}\color{#775575}{𝑟}\color{#642e86}{𝑘}}$<br>
+<!-- nepeta / shark the realest kitty efur -->
+<a href="https://github.com/pouncedeleon">𝑛𝑒</a>$\text{\color{#9e805e}{𝑝}\color{#775575}{𝑒}\color{#684081}{𝑡}\color{#642e86}{𝑎} \color{#c7b360}{/} \color{#c7b360}{𝑠}\color{#a98f5c}{ℎ}\color{#9e805e}{𝑎}\color{#775575}{𝑟}\color{#642e86}{𝑘}}$<br>
 
-  <!-- cakeyaki / pilby also my long termed moiral -->
-  <a href="https://github.com/scientificmadman">𝑐𝑎</a>$\text{\color{#b39a59}{𝑘}\color{#a98f5c}{𝑒}\color{#9f825f}{𝑦}\color{#957665}{𝑎}\color{#81606f}{𝑘}\color{#642e86}{𝑖}}$ $\text{\color{/} $\text{\color{#c7b360}{𝑝}\color{#a98f5c}{𝑖}\color{#9e805e}{𝑙}\color{#775575}{𝑏}\color{#642e86}{𝑦}}$
-
-</details>
+<!-- cakeyaki / pilby also my long termed moiral -->
+<a href="https://github.com/scientificmadman">𝑐𝑎</a>$\text{\color{#b39a59}{𝑘}\color{#a98f5c}{𝑒}\color{#9f825f}{𝑦}\color{#957665}{𝑎}\color{#81606f}{𝑘}\color{#642e86}{𝑖} \color{#642e86}{/} \color{#c7b360}{𝑝}\color{#a98f5c}{𝑖}\color{#9e805e}{𝑙}\color{#775575}{𝑏}\color{#642e86}{𝑦}}$
 
 <div align="center">
 
