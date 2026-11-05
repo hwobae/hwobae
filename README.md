@@ -103,10 +103,6 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 
 </p>
 
-<div align="center">
-
-![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Divider%20%5B2%5D.png)
-
 <details>
  <summary>
   $\text{\color{#c7b360}{✧.*}}$ $\text{\color{#bda55c}{˚₊·}}$ $\text{\color{#b39a59}{𝑒}\color{#a98f5c}{𝑦}\color{#9f825f}{𝑒}\color{#957665}{𝑠} \color{#8b6b6b}{𝑜}\color{#81606f}{𝑛} \color{#775575}{𝑡}\color{#6d4a7d}{ℎ}\color{#684081}{𝑒}\color{#642e86}{𝑚}}$ $\text{\color{#775575}{⋆｡˚}}$ $\text{\color{#642e86}{✧}}$
@@ -142,6 +138,11 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 </details>
 
 </summary>
+
+<div align="center">
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Divider%20%5B2%5D.png)
+
 
 <div align="center">
 
