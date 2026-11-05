@@ -109,26 +109,17 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 </summary>
 
 $\text{\color{#c7b360}{𝑡}\color{#bda55c}{ℎ}\color{#b39a59}{𝑒}\color{#a98f5c}{𝑠}\color{#9f825f}{𝑒}}$
-\quad
 $\text{\color{#957665}{𝑎}\color{#8b6b6b}{𝑟}\color{#81606f}{𝑒}}$
-\quad
 $\text{\color{#775575}{𝑛}\color{#715078}{𝑜}\color{#6d4a7d}{𝑡}}$
-\quad
-$\text{\color{#684081}{𝑟}\color{#642e86}{𝑎}\color{#c7b360}{𝑛}\color{#bda55c}{𝑘}\color{#b39a59}{𝑒}\color{#a98f5c}{𝑑}}$,
+$\text{\color{#684081}{𝑟}\color{#642e86}{𝑎}\color{#684081}{𝑛}\color{#6d4a7d}{𝑘}\color{#715078}{𝑒}\color{#775575}{𝑑}}$,
 
-$\text{\color{#c7b360}{𝑎}\color{#bda55c}{𝑙}\color{#b39a59}{𝑙}}$
-\quad
-$\text{\color{#a98f5c}{𝑜}\color{#9f825f}{𝑓}}$
-\quad
-$\text{\color{#957665}{𝑦}\color{#8b6b6b}{𝑜}\color{#81606f}{𝑢}}$
-\quad
-$\text{\color{#775575}{𝑎}\color{#715078}{𝑟}\color{#6d4a7d}{𝑒}}$
-\quad
-$\text{\color{#684081}{𝑤}\color{#642e86}{𝑜}\color{#c7b360}{𝑛}\color{#bda55c}{𝑑}\color{#b39a59}{𝑒}\color{#a98f5c}{𝑟}\color{#9f825f}{𝑓}\color{#957665}{𝑢}\color{#8b6b6b}{𝑙}}$
-\quad
-$\text{\color{#81606f}{𝑡}\color{#775575}{𝑜}}$
-\quad
-$\text{\color{#715078}{𝑈}\color{#642e86}{𝑠}}$.
+$\text{\color{#81606f}{𝑎}\color{#8b6b6b}{𝑙}\color{#957665}{𝑙}}$
+$\text{\color{#9f825f}{𝑜}\color{#a98f5c}{𝑓}}$
+$\text{\color{#b39a59}{𝑦}\color{#bda55c}{𝑜}\color{#c7b360}{𝑢}}$
+$\text{\color{#bda55c}{𝑎}\color{#b39a59}{𝑟}\color{#a98f5c}{𝑒}}$
+$\text{\color{#9f825f}{𝑤}\color{#957665}{𝑜}\color{#8b6b6b}{𝑛}\color{#81606f}{𝑑}\color{#775575}{𝑒}\color{#715078}{𝑟}\color{#6d4a7d}{𝑓}\color{#684081}{𝑢}\color{#642e86}{𝑙}}$
+$\text{\color{#684081}{𝑡}\color{#6d4a7d}{𝑜}}$
+$\text{\color{#715078}{𝑈}\color{#775575}{𝑠}}$.
 
   <!-- dae FUNNY FISH FLY HELLO-->
 <a href="https://github.com/mrfishsandwhich">𝑑</a>$\text{\color{#a98f5c}{𝑎}\color{#642e86}{𝑒}}$<br>
