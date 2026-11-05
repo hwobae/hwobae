@@ -139,6 +139,10 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 <!-- cakeyaki / pilby also my long termed moiral -->
 <a href="https://github.com/scientificmadman">𝑐𝑎</a>$\text{\color{#b39a59}{𝑘}\color{#a98f5c}{𝑒}\color{#9f825f}{𝑦}\color{#957665}{𝑎}\color{#81606f}{𝑘}\color{#642e86}{𝑖} \color{#642e86}{/} \color{#c7b360}{𝑝}\color{#a98f5c}{𝑖}\color{#9e805e}{𝑙}\color{#775575}{𝑏}\color{#642e86}{𝑦}}$
 
+</details>
+
+</summary>
+
 <div align="center">
 
 $\text{\color{#c7b360}{𝐻}\color{#c3ae5e}{𝑒}\color{#bea65c}{𝑎}\color{#b99f5c}{𝑣}\color{#b2975b}{𝑦} \quad \color{#aa8e5d}{𝑚}\color{#a28560}{𝑜}\color{#997c63}{𝑜}\color{#917466}{𝑑} \quad \color{#896b6b}{𝑠}\color{#82636f}{𝒉}\color{#7c5c73}{𝑖}\color{#765577}{𝑓}\color{#715078}{𝑡}\color{#6c457f}{𝑖}\color{#684081}{𝑛}\color{#642e86}{𝑔} \quad \color{#8b6b6b}{𝑠}\color{#775575}{𝑟}\color{#684081}{𝑟}\color{#642e86}{𝑦}}$
