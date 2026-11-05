@@ -84,6 +84,14 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 </p>
 
 <div align="center">
+
+$\text{\color{#c7b360}{༊*·˚}} \text{\color{#c7b360}{𝑵𝒖𝒍𝒍}} \text{\color{#a98f5c}{[}} \text{\color{#9e805e}{𝐑𝐞𝐠𝐫𝐞𝐯𝐚𝐭𝐨𝐫}} \text{\color{#a98f5c}{]}} \text{\color{#8b6b6b}{𓂃𓈒}} \quad\quad\quad \text{\color{#775575}{ꕥ}} \quad\quad\quad \text{\color{#684081}{𝑪𝒐𝒑𝒑𝒆𝒓}} \text{\color{#642e86}{𝑾𝒊𝒔𝒉𝒍𝒊𝒏𝒈}} \text{\color{#775575}{𖦹}}$
+
+$\text{\color{#c7b360}{˗ˏˋ}} \text{\color{#a98f5c}{𝐹𝑖𝑐𝑡𝑘𝑖𝑛𝑠}} \text{\color{#9e805e}{ˎˊ˗}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\quad \text{\color{#775575}{𝐷𝑜𝑢𝑏𝑙𝑒𝑠}} \text{\color{#715078}{𝐼𝑁𝑇}} \text{\color{#684081}{𝑓𝑟𝑒𝑒𝑙𝑦}} \text{\color{#642e86}{﹅﹆}} \text{\color{#684081}{✦}}$
+
+</p>
+
+<div align="center">
 <table>
 <tr>
 <td align="center" valign="middle">
