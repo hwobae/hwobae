@@ -1,5 +1,11 @@
 <div align="center">
 
+![](https://file.garden/ZroW4OcqSGtS0a5j/Hwoarang%20Banner%20%5B1%5D.png)
+
+</p>
+
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=sejopi&style=plastic&color=6d4a7d&label=𝑐𝑎𝑛𝑑𝑙𝑒𝑙𝑖𝑔ℎ𝑡𝑠‎ )
 
 </p>
@@ -19,6 +25,12 @@ $\text{\color{#c7b360}{𝐻}\color{#bda55c}{𝑤}\color{#b5a05c}{𝑜}\color{#a9
 $\text{\color{#a98f5c}{+} \quad \color{#8b6b6b}{𝐾}\color{#775575}{𝑖}\color{#715078}{𝑛} \quad \color{#6c457f}{𝑑}\color{#684081}{'}\color{#642e86}{𝑎}\color{#642e86}{𝑤}\color{#642e86}{𝑤}}$
 
 </div>
+
+<div align="center">
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Antique%20Gold%20To%20Mauve%20Divider%20%5B1%5D.png)
+
+</p>
 
 <table>
 <tr>
@@ -53,6 +65,12 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 
 </p>
 
+<div align="center">
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Hwoarang%20Divider%20%5B1%5D.png)
+
+</p>
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zagpfr6pvi7t6x6m2d3nsey5fi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zagpfr6pvi7t6x6m2d3nsey5fi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=0f1c1f&interchange=true&profanity=false&hide_remaster=false&bar_color=4f7d76&bar_color_cover=false&mode=dark">
@@ -60,14 +78,26 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 </p>
 
 <div align="center">
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Divider%20%5B1%5D.png)
+
+</p>
+
+<div align="center">
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/Null_Logo.png" alt="Null Logo" width="auto">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/Null%20Logo%20%2B%20Animated.gif" alt="Null Logo" width="auto">
 </td>
 </tr>
 </table>
 </div>
+
+<div align="center">
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Divider%20%5B2%5D.png)
+
+</p>
 
 <div align="center">
 
@@ -82,3 +112,9 @@ $\text{\color{#c7b360}{𝑇𝑜𝑜𝑛𝑠} \quad \color{#b5a05c}{𝑈𝑛𝑖�
 $\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝐻𝑜𝑚𝑒𝑠𝑡𝑢𝑐𝑘}}$
 
 </div>
+
+<div align="center">
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Banner%20%5B2%5D.png)
+
+</p>
