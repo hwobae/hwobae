@@ -173,9 +173,19 @@ $\text{\color{#775575}{𝑈}\color{#81606f}{𝑠}\color{#8b6b6b}{.}}$
 
 $\text{\color{#c7b360}{𝑊𝑒} \quad \color{#bda55c}{𝑏}\color{#a98f5c}{𝑙}\color{#8b6b6b}{𝑜}\color{#775575}{𝑐}\color{#684081}{𝑘} \quad \color{#b5a05c}{𝑓}\color{#a98f5c}{𝑟}\color{#9e805e}{𝑒}\color{#8b6b6b}{𝑒}\color{#775575}{𝑙}\color{#684081}{𝑦}}$
 
-$\text{\color{#c7b360}{𝑊}\color{#c2a960}{𝑒}\color{#a98f5c}{' }\color{#8b6b6b}{𝑟}\color{#775575}{𝑒}}$ $\text{\color{#642e86}{𝑣}\color{#775575}{𝑒}\color{#8b6b6b}{𝑟}\color{#a98f5c}{𝑦}}$ $\text{\color{#c7b360}{𝑝}\color{#c2a960}{𝑙}\color{#a98f5c}{𝑎}\color{#8b6b6b}{𝑡}\color{#775575}{𝑜}\color{#642e86}{𝑛}\color{#775575}{𝑖}\color{#8b6b6b}{𝑐}-\color{#a98f5c}{𝑐}\color{#c2a960}{𝑒}\color{#c7b360}{𝑛}\color{#a98f5c}{𝑡}\color{#8b6b6b}{𝑒}\color{#775575}{𝑟}\color{#642e86}{𝑒}\color{#775575}{𝑑},}$ <br>
-$\text{\color{#c7b360}{𝑑}\color{#c2a960}{𝑒}\color{#a98f5c}{𝑠}\color{#8b6b6b}{𝑝}\color{#775575}{𝑖}\color{#642e86}{𝑡}\color{#775575}{𝑒}}$ <br>
-$\text{\color{#c7b360}{𝑈}\color{#c2a960}{𝑠}}$ $\text{\color{#a98f5c}{𝑏}\color{#8b6b6b}{𝑒}\color{#775575}{𝑖}\color{#642e86}{𝑛}\color{#775575}{𝑔}}$ $\text{\color{#8b6b6b}{𝑑}\color{#775575}{𝑒}\color{#642e86}{𝑚}\color{#775575}{𝑖}\color{#8b6b6b}{𝑟}\color{#a98f5c}{𝑜}\color{#c2a960}{𝑚}\color{#c7b360}{𝑎}\color{#a98f5c}{𝑛}\color{#8b6b6b}{𝑡}\color{#775575}{𝑖}\color{#642e86}{𝑐}.}$
+$\text{\color{#c7b360}{𝑊}\color{#c2a960}{𝑒}\color{#a98f5c}{'}\color{#8b6b6b}{𝑟}\color{#775575}{𝑒}}$
+\qquad
+$\text{\color{#642e86}{𝑣}\color{#775575}{𝑒}\color{#8b6b6b}{𝑟}\color{#a98f5c}{𝑦}}$
+\qquad
+$\text{\color{#c7b360}{𝑝}\color{#c2a960}{𝑙}\color{#a98f5c}{𝑎}\color{#8b6b6b}{𝑡}\color{#775575}{𝑜}\color{#642e86}{𝑛}\color{#775575}{𝑖}\color{#8b6b6b}{𝑐}-\color{#a98f5c}{𝑐}\color{#c2a960}{𝑒}\color{#c7b360}{𝑛}\color{#a98f5c}{𝑡}\color{#8b6b6b}{𝑒}\color{#775575}{𝑟}\color{#642e86}{𝑒}\color{#775575}{𝑑},}$
+<br>
+$\text{\color{#c7b360}{𝑑}\color{#c2a960}{𝑒}\color{#a98f5c}{𝑠}\color{#8b6b6b}{𝑝}\color{#775575}{𝑖}\color{#642e86}{𝑡}\color{#775575}{𝑒}}$
+<br>
+$\text{\color{#c7b360}{𝑈}\color{#c2a960}{𝑠}}$
+\qquad
+$\text{\color{#a98f5c}{𝑏}\color{#8b6b6b}{𝑒}\color{#775575}{𝑖}\color{#642e86}{𝑛}\color{#775575}{𝑔}}$
+\qquad
+$\text{\color{#8b6b6b}{𝑑}\color{#775575}{𝑒}\color{#642e86}{𝑚}\color{#775575}{𝑖}\color{#8b6b6b}{𝑟}\color{#a98f5c}{𝑜}\color{#c2a960}{𝑚}\color{#c7b360}{𝑎}\color{#a98f5c}{𝑛}\color{#8b6b6b}{𝑡}\color{#775575}{𝑖}\color{#642e86}{𝑐}.}$
 
 $\text{\color{#c7b360}{𝐻}\color{#c3ae5e}{𝑒}\color{#bea65c}{𝑎}\color{#b99f5c}{𝑣}\color{#b2975b}{𝑦} \quad \color{#aa8e5d}{𝑎}\color{#a28560}{𝑛}\color{#997c63}{𝑑} \quad \color{#917466}{𝑟}\color{#896b6b}{𝑎}\color{#82636f}{𝑝}\color{#7c5c73}{𝑖}\color{#765577}{𝑑} \quad \color{#aa8e5d}{𝑚}\color{#a28560}{𝑜}\color{#997c63}{𝑜}\color{#917466}{𝑑} \quad \color{#896b6b}{𝑠}\color{#82636f}{𝒉}\color{#7c5c73}{𝑖}\color{#765577}{𝑓}\color{#715078}{𝑡}\color{#6c457f}{𝑖}\color{#684081}{𝑛}\color{#642e86}{𝑔} \quad \color{#8b6b6b}{𝑠}\color{#775575}{𝑟}\color{#684081}{𝑟}\color{#642e86}{𝑦}}$
 
