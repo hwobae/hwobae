@@ -185,6 +185,10 @@ $\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \
 
 <div align="center">
 
+$\text{\color{#c7b360}{˗ˏˋ 𝒘𝒉𝒆𝒏} \color{#a98f5c}{𝒕𝒉𝒆} \color{#8b6b6b}{𝒎𝒄} \color{#775575}{𝒂𝒓𝒈...} \color{#642e86}{⸝⸝⸝}}$ <br>
+
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/platonically.jpg" alt="teehee" width="auto" height="auto">
+
 ![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Banner%20%5B2%5D.png)
 
 </p>
