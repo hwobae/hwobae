@@ -179,7 +179,7 @@ $\text{\color{#c7b360}{𝑚𝑎𝑖𝑛} \quad \color{#bda55c}{𝑖𝑛𝑡𝑒�
 
 $\text{\color{#c7b360}{𝑇𝑜𝑜𝑛𝑠} \quad \color{#b5a05c}{𝑈𝑛𝑖𝑣} \quad \color{#a98f5c}{,} \quad \color{#9e805e}{𝑃𝑙𝑎𝑛𝑡𝑠} \quad \color{#8b6b6b}{𝑣𝑠} \quad \color{#775575}{𝑍𝑜𝑚𝑏𝑖𝑒𝑠} \quad \color{#715078}{,} \quad \color{#684081}{𝐿4𝐷2}}$
 
-$\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝐻𝑜𝑚𝑒𝑠𝑡𝑢𝑐𝑘}}$
+$\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \color{#a98f5c}{,} \quad \color{#8b6b6b}{𝐻𝑜𝑚𝑒𝑠𝑡𝑢𝑐𝑘}}$ <br>
 
 </div>
 
@@ -187,7 +187,7 @@ $\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \
 
 $\text{\color{#c7b360}{˗ˏˋ 𝒘𝒉𝒆𝒏} \color{#a98f5c}{𝒕𝒉𝒆} \color{#8b6b6b}{𝒎𝒄} \color{#775575}{𝒂𝒓𝒈...} \color{#642e86}{⸝⸝⸝}}$ <br>
 
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/platonically.jpg" alt="teehee" width="auto" height="auto">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/platonically.jpg" alt="teehee" width="205" height="170">
 
 ![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Banner%20%5B2%5D.png)
 
