@@ -178,10 +178,42 @@ $\text{\color{#c7b360}{𝑅𝑒𝑔𝑟𝑒𝑡𝑒𝑣𝑎𝑡𝑜𝑟} \quad \
 <br>
 
 <div align="center">
+  
+$\text{\color{#c7b360}{˗ˏˋ 𝒘𝒉𝒆𝒏} \color{#a98f5c}{𝒕𝒉𝒆} \color{#8b6b6b}{𝒎𝒄} \color{#775575}{𝒂𝒓𝒈...} \color{#642e86}{⸝⸝⸝}}$ <br>
 
 <img width="90" height="70" alt="Screenshot (856)" src="https://github.com/user-attachments/assets/53057252-f8b5-41f6-a4b7-5cee82c7ecca" />
 
-$\text{\color{#c7b360}{˗ˏˋ 𝒘𝒉𝒆𝒏} \color{#a98f5c}{𝒕𝒉𝒆} \color{#8b6b6b}{𝒎𝒄} \color{#775575}{𝒂𝒓𝒈...} \color{#642e86}{⸝⸝⸝}}$ <br>
+<details>
+  <summary>𝑚𝑒 𝑤 𝑡ℎ𝑒 𝑔𝑎𝑛𝑔𝑠 𝐿𝑀𝐹𝐴𝑂𝑂</summary>
+
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-36-49.gif" alt="DRAWING A SEAL GETTING PAT PAT N FED SALMON!! SO CUTE AAWWW" height="auto" width="auto"> <br>
+  
+
+  me and him!!!!<33 BIG ty for my gangs for drawing these even if for goofs. melting cuz we kissing teehee. 
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-20-48.gif" alt="HWOSIRGIL CANON" height="Auto" width="auto"> <br>
+
+
+  AHHHH HUBBY WATCHING N CHEERING FOR ME<33 STILL ANOTHER TY CUZ I LOVE THESE
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-55-55.gif" alt="FUCK YEAHHH" height="" width=""> <br>
+
+
+  MORE HUBBY AUGHH FUUUUUCK ALL OF HIM HERE ARE FUCKING BEAUTIFUL AND MAKES ME MELT AHH why omg
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_04-14-33.gif" alt="MORE LOVELY HWOARANG DRAWINGS THE GANGS MAKES ME HAPPY FOR THIS" height="auto" width="auto"> <br>
+
+  
+  I WASNT EXPECTING HIM TOBBE CALLEDD SALAD FINGERS LMAOO
+  <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-54-48.gif" alt="SALAD FINGERS TKAING A SHIT" height="auto" width="auto"> <br>
+
+  ME!! THE SEALLY!!! still thanking all of them for drawing alots of seals it brings warmth to my heart!!
+  <img 
+src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_04-33-22.gif" alt="Me seally!!! mememememe" height="auto" width="auto">
+
+AND THEN WITH THESE SHITS that made me lose my voice for laughing too much:/ sighs /lh
+
+![](https://file.garden/ZroW4OcqSGtS0a5j/Screenshot_858.png)
+![](https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_04-53-07.webp)
+
+</details>
 
 ![](https://file.garden/ZroW4OcqSGtS0a5j/Null%20Banner%20%5B2%5D.png)
 
