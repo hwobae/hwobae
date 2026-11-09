@@ -186,10 +186,11 @@ $\text{\color{#c7b360}{˗ˏˋ 𝒘𝒉𝒆𝒏} \color{#a98f5c}{𝒕𝒉𝒆} \c
 <details>
   <summary>𝑚𝑒 𝑤 𝑡ℎ𝑒 𝑔𝑎𝑛𝑔𝑠 𝐿𝑀𝐹𝐴𝑂𝑂</summary>
 
+  le seally!!! eating salmon and getting headpats!! d'aww
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-36-49.gif" alt="DRAWING A SEAL GETTING PAT PAT N FED SALMON!! SO CUTE AAWWW" height="auto" width="auto"> <br>
   
 
-  me and him!!!!<33 BIG ty for my gangs for drawing these even if for goofs. melting cuz we kissing teehee. 
+  me and him!!!!<33 BIG ty for my gangs for drawing these even if for goofs. melting cuz we kissing teehee canon Ok OK
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-20-48.gif" alt="HWOSIRGIL CANON" height="Auto" width="auto"> <br>
 
 
