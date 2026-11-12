@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://file.garden/ZroW4OcqSGtS0a5j/Hwoarang%20Banner%20%5B1%5D.png)
+![](https://file.garden/ZroW4OcqSGtS0a5j/Hwoarang%20%2B%20MC%20ARG%20Banner%20%5B1%5D.png)
 
 </p>
 
