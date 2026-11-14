@@ -14,7 +14,7 @@
 
 <div align="center">
 
-$\text{\color{#c7b360}{𝐻}\color{#c3ae5e}{𝑤}\color{#bea65c}{𝑜}\color{#b99f5c}{𝑎}\color{#b2975b}{𝑟}\color{#aa8e5d}{𝑎}\color{#a28560}{𝑛}\color{#997c63}{𝑔} \quad \color{#917466}{,} \quad \color{#896b6b}{𝐴}\color{#82636f}{𝑦}\color{#7c5c73}{𝑑}\color{#765577}{𝑒}\color{#715078}{𝑛} \quad \color{#6e4b7c}{,} \quad \color{#6c477e}{𝑆}\color{#694381}{𝑖}\color{#674083}{𝑟}\color{#653c85}{𝑔}\color{#643986}{𝑖}\color{#642e86}{𝑙} \quad \color{#c7b360}{𝑜}\color{#a98f5c}{𝑟} \quad \color{#775575}{𝑁}\color{#684081}{𝑢}\color{#642e86}{𝑙𝑙}}$
+$\text{\color{#c7b360}{𝐻}\color{#c3ae5e}{𝑤}\color{#bea65c}{𝑜}\color{#b99f5c}{𝑎}\color{#b2975b}{𝑟}\color{#aa8e5d}{𝑎}\color{#a28560}{𝑛}\color{#997c63}{𝑔} \quad \color{#917466}{,} \quad \color{#896b6b}{𝐵}\color{#82636f}{𝑙}\color{#7c5c73}{𝑢}\color{#765577}{𝑟} \quad \color{#715078}{,} \quad \color{#6e4b7c}{𝐴}\color{#6c477e}{𝑦}\color{#694381}{𝑑}\color{#674083}{𝑒}\color{#653c85}{𝑛} \quad \color{#6e4b7c}{,} \quad \color{#6c477e}{𝑆}\color{#694381}{𝑖}\color{#674083}{𝑟}\color{#653c85}{𝑔}\color{#643986}{𝑖}\color{#642e86}{𝑙} \quad \color{#c7b360}{𝑜}\color{#a98f5c}{𝑟} \quad \color{#775575}{𝑁}\color{#684081}{𝑢}\color{#642e86}{𝑙𝑙}}$
 
 $\text{\color{#c7b360}{17} \quad \color{#8b6b6b}{𝑦}}$
 
