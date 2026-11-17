@@ -184,7 +184,7 @@ $\text{\color{#c7b360}{˗ˏˋ 𝒘𝒉𝒆𝒏} \color{#a98f5c}{𝒕𝒉𝒆} \c
 <img width="90" height="70" alt="Screenshot (856)" src="https://github.com/user-attachments/assets/53057252-f8b5-41f6-a4b7-5cee82c7ecca" />
 
 <details>
-  <summary>𝑚𝑒 𝑤 𝑡ℎ𝑒 𝑔𝑎𝑛𝑔𝑠 𝐿𝑀𝐹𝐴𝑂𝑂</summary>
+  <summary>𝑚𝑒 𝑤 𝑡ℎ𝑒 𝑔𝑎𝑛𝑔𝑠 𝐿𝑀𝐹𝐴𝑂𝑂 $\text{\color{#c7b360}{·} \color{#c3ae5e}{𝑊𝑒'𝑙𝑙} \color{#bea65c}{𝑚𝑖𝑠𝑠} \color{#b99f5c}{𝑢} \color{#b2975b}{𝑆ℎ𝑎𝑟,} \color{#aa8e5d}{𝑤𝑖𝑠ℎ𝑖𝑛𝑔} \color{#a28560}{𝑦𝑜𝑢} \color{#997c63}{𝑎𝑙𝑙} \color{#917466}{𝑡ℎ𝑒} \color{#896b6b}{𝑏𝑒𝑠𝑡} \color{#82636f}{𝑖𝑟𝑙} \color{#775575}{:)} }$ </summary>
 
   le seally!!! eating salmon and getting headpats!! d'aww
   <img src="https://file.garden/ZroW4OcqSGtS0a5j/album_2026-11-09_03-36-49.gif" alt="DRAWING A SEAL GETTING PAT PAT N FED SALMON!! SO CUTE AAWWW" height="auto" width="auto"> <br>
