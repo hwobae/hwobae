@@ -97,7 +97,7 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/DoppelLOGOBYHWOBAE.gif" alt="Doppel Logo" width="auto">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/doppellogomademyhwobaefuckoff.gif" alt="Doppel Logo it isnt yours brochacho" width="auto">
 </td>
 </tr>
 </table>
