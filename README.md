@@ -50,7 +50,7 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 <table>
 <tr>
 <td align="center">
-<a href="https://hwobae.straw.page">
+<a href="https://torchure.straw.page">
 <img src="https://file.garden/ZroW4OcqSGtS0a5j/hwoslove.png" alt="strawpage_link" width="50" height="50">
 </a>
 </td>
