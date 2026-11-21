@@ -60,7 +60,7 @@ $\text{\color{#c7b360}{灬} \color{#c7b360}{ⅰ.} \color{#bda55c}{𝑠}\color{#b
 </a>
 </td>
 <td align="center">
-<a href="https://pronouns.cc/@hwobae">
+<a href="https://pronouns.cc/@TORCHURE">
 <img src="https://file.garden/ZroW4OcqSGtS0a5j/Untitled309_20261104224320.png" alt="pronouns.cc_link" width="50" height="50">
 </a>
 </td>
