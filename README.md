@@ -168,8 +168,8 @@ $\text{\color{#c7b360}{𝑊𝑒} \quad \color{#bda55c}{𝑏}\color{#a98f5c}{𝑙
 
 does not mean we're okay with people whos in the dni criteria,<br>
 simply if We think you're shitty to Us or make Us heavily uncomfortable, <br>
-we'll block you ambiguously.
-
+we'll block you immediately, if you made Our friends <br
+uncomfortable, We'd block you as well.
 </details>
 
 </summary>
