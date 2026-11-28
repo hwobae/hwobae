@@ -18,9 +18,7 @@ $\text{\color{#c7b360}{𝑙}\color{#b99f5e}{𝑖}\color{#a98f5c}{𝑡}\color{#9a
 
 $\text{\color{#c7b360}{𝑖}\color{#b99f5e}{𝑛}\color{#a98f5c}{𝑡}\color{#9a7d60}{𝑗}}\quad\text{\color{#8b6b6b}{8}\color{#775575}{𝑤}\color{#642e86}{9}}\qquad\text{\color{#c7b360}{8}\color{#b99f5c}{5}\color{#a98f5c}{4}}\quad\text{\color{#8b6b6b}{𝑠}\color{#775575}{𝑥}}\text{\color{#642e86}{/}}\text{\color{#775575}{𝑠}\color{#8b6b6b}{𝑝}}\text{\color{#a98f5c}{/}}\text{\color{#c7b360}{𝑠}\color{#b99f5c}{𝑜}}$
  
-$\text{\color{#c7b360}{𝐻}\color{#bda55c}{𝑤}\color{#b5a05c}{𝑜}\color{#a98f5c}{𝑎}\color{#9e805e}{𝑟}\color{#8b6b6b}{𝑎}\color{#775575}{𝑛}\color{#715078}{𝑔}\color{#6c457f}{'}\color{#684081}{𝑠} \quad \color{#bda55c}{𝐻}\color{#b5a05c}{𝑢}\color{#a98f5c}{𝑠}\color{#9e805e}{𝑏}\color{#8b6b6b}{𝑎}\color{#775575}{𝑛}\color{#715078}{𝑑}\color{#6c457f}{/}\color{#684081}{𝑊}\color{#642e86}{𝑖𝑓𝑒}}$
-
-$\text{\color{#a98f5c}{+} \quad \color{#8b6b6b}{𝐾}\color{#775575}{𝑖}\color{#715078}{𝑛} \quad \color{#6c457f}{𝑑}\color{#684081}{'}\color{#642e86}{𝑎}\color{#642e86}{𝑤}\color{#642e86}{𝑤}}$
+![KUSS KISS Mwuaahh](https://i.postimg.cc/8zCPC7fJ/95075922-5581-456-F-9-B79-B1-B2-E1-AC7415.gif) $\text{\color{#c7b360}{𝐻}\color{#bda55c}{𝑤}\color{#b5a05c}{𝑜}\color{#a98f5c}{𝑎}\color{#9e805e}{𝑟}\color{#8b6b6b}{𝑎}\color{#775575}{𝑛}\color{#715078}{𝑔}\color{#6c457f}{'}\color{#684081}{𝑠} \quad \color{#bda55c}{𝐻}\color{#b5a05c}{𝑢}\color{#a98f5c}{𝑠}\color{#9e805e}{𝑏}\color{#8b6b6b}{𝑎}\color{#775575}{𝑛}\color{#715078}{𝑑}\color{#6c457f}{/}\color{#684081}{𝑊}\color{#642e86}{𝑖𝑓𝑒}}$ $\text{\color{#a98f5c}{+} \quad \color{#8b6b6b}{𝐾}\color{#775575}{𝑖}\color{#715078}{𝑛} \quad \color{#6c457f}{𝑑}\color{#684081}{'}\color{#642e86}{𝑎}\color{#642e86}{𝑤}\color{#642e86}{𝑤}}$ ![kissy kiss chuuuu](https://i.postimg.cc/8zCPC7fJ/95075922-5581-456-F-9-B79-B1-B2-E1-AC7415.gif)
 
 </div>
 
@@ -93,7 +91,7 @@ $\text{\color{#c7b360}{˗ˏˋ}} \quad\quad \text{\color{#8b6b6b}{𓍯}} \quad\qu
 <table>
 <tr>
 <td align="center" valign="middle">
-<img src="https://file.garden/ZroW4OcqSGtS0a5j/doppellogomademyhwobaefuckoff.gif" alt="Doppel Logo it isnt yours brochacho" width="auto">
+<img src="https://file.garden/ZroW4OcqSGtS0a5j/doppellogomademyhwobaefuckoff.gif" alt="Doppel Logo it isnt yours brochacho" width="490">
 </td>
 </tr>
 </table>
